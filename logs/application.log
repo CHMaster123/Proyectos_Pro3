@@ -1,0 +1,6 @@
+2022-08-11 22:12:05 DEBUG (logs.java:12) pongo aqui este mensaje para los logs
+2022-08-11 22:12:05 ERROR (logs.java:13) pongo aqui este mensaje para los logs
+2022-08-11 22:12:05 INFO  (logs.java:14) pongo aqui este mensaje para los logs
+2022-08-11 22:26:24 DEBUG (logs.java:12) pongo aqui este mensaje para los logs
+2022-08-11 22:26:24 ERROR (logs.java:13) pongo aqui este mensaje para los logs
+2022-08-11 22:26:24 INFO  (logs.java:14) pongo aqui este mensaje para los logs
