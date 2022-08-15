@@ -1,9 +1,19 @@
-package Practico1.codigo;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package interfaz_grafica;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-
+/**
+ *
+ * @author crist
+ */
 public class Ordenar {
-
+    protected static final Logger logger = LogManager.getLogger();
     public int[] ordenarInsercion(int[] arreglo) {
         int aux;
         int contador1;
@@ -20,6 +30,7 @@ public class Ordenar {
 
     public int[] ordenarQuicksort(int[] arreglo) {
         arreglo = quicksort1(arreglo);
+        logger.debug("quicksort entra en Stackoverflow si se usa mas de 60.000 numeros");
         return arreglo;
     }
 
@@ -62,25 +73,25 @@ public class Ordenar {
         return numeros;
     }
 
-        public int[] ordenarBurbuja ( int[] arreglo){
-            int aux;
-            boolean cambio = false;
+    public int[] ordenarBurbuja ( int[] arreglo){
+        int aux;
+        boolean cambio = false;
 
-            while (true) {
-                cambio = false;
-                for (int i = 1; i < arreglo.length; i++) {
-                    if (arreglo[i] < arreglo[i - 1]) {
-                        aux = arreglo[i];
-                        arreglo[i] = arreglo[i - 1];
-                        arreglo[i - 1] = aux;
-                        cambio = true;
-                    }
+        while (true) {
+            cambio = false;
+            for (int i = 1; i < arreglo.length; i++) {
+                if (arreglo[i] < arreglo[i - 1]) {
+                    aux = arreglo[i];
+                    arreglo[i] = arreglo[i - 1];
+                    arreglo[i - 1] = aux;
+                    cambio = true;
+                }
 
-                }
-                if (cambio == false) {
-                    break;
-                }
             }
-            return arreglo;
+            if (cambio == false) {
+                break;
+            }
         }
+        return arreglo;
     }
+}

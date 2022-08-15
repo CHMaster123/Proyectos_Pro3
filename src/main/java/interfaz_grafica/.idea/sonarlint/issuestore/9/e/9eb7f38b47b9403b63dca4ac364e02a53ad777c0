@@ -1,0 +1,51 @@
+
+f
+java:S1192:"PDefine a constant instead of duplicating this literal "Times New Roman" 4 times.(×¿öŸ
+>
+java:S1604."(Make this anonymous inner class a lambda(í­Î’
+D
+java:S1604ÿ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+w
+java:S1450‡"[Remove the "botonGenerar" field and declare it as a local variable in the relevant methods.(µÀü×úÿÿÿÿ
+w
+java:S1450ˆ"[Remove the "botonOrdenar" field and declare it as a local variable in the relevant methods.(áº¯¥ûÿÿÿÿ
+t
+java:S1450‰"]Remove the "numerosBurbuja" field and declare it as a local variable in the relevant methods.(‡ŒåŸ
+{
+java:S1450Š"_Remove the "numerosInsercion" field and declare it as a local variable in the relevant methods.(´àµ€ıÿÿÿÿ
+{
+java:S1450‹"_Remove the "numerosQuicksort" field and declare it as a local variable in the relevant methods.(íå½şÿÿÿÿ
+r
+java:S1450Œ"[Remove the "panelBurbuja" field and declare it as a local variable in the relevant methods.(Ä›·•
+y
+java:S1450"]Remove the "panelInsercion" field and declare it as a local variable in the relevant methods.(Ò¼§’üÿÿÿÿ
+s
+java:S1450"]Remove the "panelPrincipal" field and declare it as a local variable in the relevant methods.(¶…0
+y
+java:S1450"]Remove the "panelQuicksort" field and declare it as a local variable in the relevant methods.(©×Õ®üÿÿÿÿ
+s
+java:S1450"\Remove the "textoCantidad" field and declare it as a local variable in the relevant methods.(„Œùè
+v
+java:S1450‘"ZRemove the "textoTiempo" field and declare it as a local variable in the relevant methods.(‘¸ùÊúÿÿÿÿ
+s
+java:S1450’"\Remove the "tituloBurbuja" field and declare it as a local variable in the relevant methods.(æ½…Ô
+s
+java:S1450“"]Remove the "tituloCantidad" field and declare it as a local variable in the relevant methods.(©ÕÃ[
+u
+java:S1450”"^Remove the "tituloInsercion" field and declare it as a local variable in the relevant methods.(û¥Ÿ…
+z
+java:S1450•"^Remove the "tituloQuicksort" field and declare it as a local variable in the relevant methods.(Ôš˜‹ıÿÿÿÿ
+r
+java:S1450–"[Remove the "tituloTiempo" field and declare it as a local variable in the relevant methods.(ÊâÏ±
+A
+java:S1172á"*Remove this unused method parameter "evt".(öë¬â
+N
+java:S1135â"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197æ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147õ"ECombine this catch with the one at line 243, which has the same body.(¨¦Š½
+\
+java:S2147÷"ECombine this catch with the one at line 243, which has the same body.(ã€ 
+[
+java:S2147ù"ECombine this catch with the one at line 243, which has the same body.(ñÎ¯%
