@@ -442,6 +442,7 @@ public class Ventana extends javax.swing.JFrame {
 
     // Metodo de Ordenamiento de los arreglos
     private void botonOrdenarActionPerformed(java.awt.event.ActionEvent evt) {
+
         logger.debug("se empieza a calcular el tiempo que tomara el metodo");
         long tiempoInicio = System.nanoTime();
         Ordenar ordenador = new Ordenar();
@@ -504,31 +505,20 @@ public class Ventana extends javax.swing.JFrame {
     }
 
     private void botonInsercionActionPerformed(java.awt.event.ActionEvent evt) {
-        long tiempoInicio = System.nanoTime();
 
         this.tablaDetalle.setText(this.tablaInsercion.getText());
         logger.debug("se muestran los resultados en detalle de insercion");
 
-        long tiempoFinal = System.nanoTime();
-        long tiempoTotal = tiempoFinal - tiempoInicio;
-        logger.debug("se calcula el tiempo y se muestra al operador");
-        JOptionPane.showMessageDialog(null, "El Sistema tardo " + tiempoTotal / 1000000 + " milisegundo en dar detalle");
     }
 
     private void botonBurbujaActionPerformed(java.awt.event.ActionEvent evt) {
-        long tiempoInicio = System.nanoTime();
 
         this.tablaDetalle.setText(this.tablaBurbuja.getText());
         logger.debug("se muestran los resultados en detalle de burbuja");
 
-        long tiempoFinal = System.nanoTime();
-        long tiempoTotal = tiempoFinal - tiempoInicio;
-        logger.debug("se calcula el tiempo y se muestra al operador");
-        JOptionPane.showMessageDialog(null, "El Sistema tardo " + tiempoTotal / 1000000 + " milisegundo en dar detalle");
     }
 
     private void botonQuicksortActionPerformed(java.awt.event.ActionEvent evt) {
-        long tiempoInicio = System.nanoTime();
 
         if (numerosPrincipal.length > 60000) {
             this.tablaDetalle.setText("Este arreglo no puede completarse por ser superior a 60.000 la cantidad de numeros");
@@ -536,11 +526,6 @@ public class Ventana extends javax.swing.JFrame {
             this.tablaDetalle.setText(this.tablaQuicksort.getText());
         }
         logger.debug("se muestran los resultados en detalle de quicksort");
-
-        long tiempoFinal = System.nanoTime();
-        long tiempoTotal = tiempoFinal - tiempoInicio;
-        logger.debug("se calcula el tiempo y se muestra al operador");
-        JOptionPane.showMessageDialog(null, "El Sistema tardo " + tiempoTotal / 1000000 + " milisegundo en dar detalle");
     }
 
     public static void main(String args[]) {
