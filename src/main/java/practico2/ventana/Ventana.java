@@ -19,7 +19,7 @@ public class Ventana extends JFrame {
     private Recurrencia modelo;
     public Ventana() {
         this.setTitle("Recurrencia con cuadraditos");
-        this.modelo = new Recurrencia(2);
+        this.modelo = new Recurrencia(1);
        this.initComponents();
        this.setResizable(false);
     }

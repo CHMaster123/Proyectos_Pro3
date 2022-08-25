@@ -24,7 +24,10 @@ public class Recurrencia implements InterfaceDibujo {
 
     @Override
     public void dibujar(Graphics g) {
-        hacerRecurrencia(400, 100, 100, 100, this.profundidad, g);
+       for (int i = 1; i <=this.profundidad; i++){
+           hacerRecurrencia(400, 100, 100, 100, i, g);
+       }
+
     }
 
     public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics gc) {
