@@ -21,6 +21,7 @@ public class panelVentana extends JPanel implements PropertyChangeListener {
 
     private Recurrencia objeto;
 
+
     protected static final Logger logger = LogManager.getLogger();
 
     // Se Crea la clase de Panel, Se lo declara como la clase Vista
@@ -32,11 +33,13 @@ public class panelVentana extends JPanel implements PropertyChangeListener {
     }
 
     //este metodo solo declara que se graficara en el case que el objeto de modelo no sea nulo
+    @Override
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
         if (objeto != null) {
             objeto.dibujar(g);
         }
+
     }
 
     // se declara que cuando el controlador detecte un cambio en el modelo, Vista se actualizara

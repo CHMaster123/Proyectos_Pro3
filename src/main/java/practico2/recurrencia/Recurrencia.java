@@ -6,10 +6,13 @@ import org.apache.logging.log4j.Logger;
 import java.awt.*;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
+import java.util.Random;
 
 public class Recurrencia implements InterfaceDibujo {
-    public int profundidad;
-    public PropertyChangeSupport objeto;
+    private int profundidad;
+    private PropertyChangeSupport objeto;
+    private Random ramdom= new Random();
+
     protected static final Logger logger = LogManager.getLogger();
 
     //Constructor de Recurrencia, se le da la profundidad y se declara que este sera el objeto a observar
@@ -40,6 +43,7 @@ public class Recurrencia implements InterfaceDibujo {
             hacerRecurrencia(500, 200, 200, 200, i, g);
         }
 
+
     }
 
     //este metodo grafica la recurrencia
@@ -48,8 +52,27 @@ public class Recurrencia implements InterfaceDibujo {
         int vAncho = pAncho / 2;
         int pAlto = alto / 2;
         int vAlto = pAlto / 2;
+        int[][] pixeles = new int[200][200];
+        int R = ramdom.nextInt() * 255;
+        int G = ramdom.nextInt() * 255;
+        int B = ramdom.nextInt() * 255;
+        int color = B | (G << 8) | (R << 16);
+
+
         if (n == 1) {
             gc.drawRect(x1, y1, ancho, alto);
+            for (int i = 0; i < 200; i++) {
+                for (int j = 0; j < 200; j++) {
+                    pixeles[i][j] = color;
+                }
+            }
+            for (int i = 0; i < ancho; i++) {
+                for (int j = 0; j < alto; j++) {
+                    gc.setColor(new Color(pixeles[i][j]));
+                    gc.drawLine(x1 + i, y1 + j, x1 + ancho, y1 + alto);
+
+                }
+            }
             logger.debug("Se grafica el cuadrado en las posiciones (" + x1 + "," + y1 + ") con el ancho y alto de (" + pAncho + "," + pAlto + ")");
         } else {
             hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc); // pos 1
