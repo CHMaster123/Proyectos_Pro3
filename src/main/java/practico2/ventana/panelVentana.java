@@ -5,6 +5,8 @@
  */
 package practico2.ventana;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico2.recurrencia.Recurrencia;
 
 import javax.swing.*;
@@ -13,31 +15,38 @@ import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 
 /**
- *
  * @author crist
  */
 public class panelVentana extends JPanel implements PropertyChangeListener {
 
     private Recurrencia objeto;
-    private static final long serialVersionUID = 1L;
+
+    protected static final Logger logger = LogManager.getLogger();
+
+    // Se Crea la clase de Panel, Se lo declara como la clase Vista
     public panelVentana(Recurrencia objeto) {
-        this.objeto=objeto;
+        this.objeto = objeto;
         objeto.listenerAñadir(this);
         initComponents();
+        logger.debug("Se crea el Panel como clase Vista");
     }
 
-
+    //este metodo solo declara que se graficara en el case que el objeto de modelo no sea nulo
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
-        if (objeto != null){
+        if (objeto != null) {
             objeto.dibujar(g);
         }
     }
 
+    // se declara que cuando el controlador detecte un cambio en el modelo, Vista se actualizara
     @Override
     public void propertyChange(PropertyChangeEvent evt) {
+        logger.debug("Se detecto un cambio, se Actualiza la vista, el Panel");
         this.repaint();
     }
+
+    // solo se declara los componentes del panel
     @SuppressWarnings("unchecked")
     private void initComponents() {
 

@@ -5,23 +5,27 @@
  */
 package practico2.ventana;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico2.recurrencia.Recurrencia;
 
 import javax.swing.*;
 
 /**
- *
  * @author crist
  */
 public class Ventana extends JFrame {
-    private static final long serialVersionUID = 1L;
+
     private panelVentana panel;
     private Recurrencia modelo;
+    protected static final Logger logger = LogManager.getLogger();
+
     public Ventana() {
         this.setTitle("Recurrencia con cuadraditos");
         this.modelo = new Recurrencia(1);
-       this.initComponents();
-       this.setResizable(false);
+        this.initComponents();
+        this.setResizable(false);
+        logger.debug(" se crea la ventana con todos sus componentes");
     }
 
     @SuppressWarnings("unchecked")
@@ -54,61 +58,65 @@ public class Ventana extends JFrame {
         javax.swing.GroupLayout NotaPanelLayout = new javax.swing.GroupLayout(NotaPanel);
         NotaPanel.setLayout(NotaPanelLayout);
         NotaPanelLayout.setHorizontalGroup(
-            NotaPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(NotaPanelLayout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(NotaPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(tituloProfundidad)
-                    .addGroup(NotaPanelLayout.createSequentialGroup()
-                        .addGap(39, 39, 39)
-                        .addComponent(profundidadTexto, javax.swing.GroupLayout.PREFERRED_SIZE, 217, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(botonEmpezarRecurrencia, javax.swing.GroupLayout.PREFERRED_SIZE, 463, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(30, 30, 30))
+                NotaPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addGroup(NotaPanelLayout.createSequentialGroup()
+                                .addContainerGap()
+                                .addGroup(NotaPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                        .addComponent(tituloProfundidad)
+                                        .addGroup(NotaPanelLayout.createSequentialGroup()
+                                                .addGap(39, 39, 39)
+                                                .addComponent(profundidadTexto, javax.swing.GroupLayout.PREFERRED_SIZE, 217, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addComponent(botonEmpezarRecurrencia, javax.swing.GroupLayout.PREFERRED_SIZE, 463, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(30, 30, 30))
         );
         NotaPanelLayout.setVerticalGroup(
-            NotaPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, NotaPanelLayout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(tituloProfundidad)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(profundidadTexto, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(16, Short.MAX_VALUE))
-            .addGroup(NotaPanelLayout.createSequentialGroup()
-                .addGap(14, 14, 14)
-                .addComponent(botonEmpezarRecurrencia, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addContainerGap())
+                NotaPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, NotaPanelLayout.createSequentialGroup()
+                                .addContainerGap()
+                                .addComponent(tituloProfundidad)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(profundidadTexto, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addContainerGap(16, Short.MAX_VALUE))
+                        .addGroup(NotaPanelLayout.createSequentialGroup()
+                                .addGap(14, 14, 14)
+                                .addComponent(botonEmpezarRecurrencia, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addContainerGap())
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jSeparator1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 900, Short.MAX_VALUE)
-            .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(NotaPanel, javax.swing.GroupLayout.DEFAULT_SIZE, 880, Short.MAX_VALUE)
-                .addContainerGap())
+                layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addComponent(jSeparator1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 1200, Short.MAX_VALUE)
+                        .addGroup(layout.createSequentialGroup()
+                                .addContainerGap()
+                                .addComponent(NotaPanel, javax.swing.GroupLayout.DEFAULT_SIZE, 1180, Short.MAX_VALUE)
+                                .addContainerGap())
         );
         layout.setVerticalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addComponent(NotaPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(302, Short.MAX_VALUE))
+                layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addGroup(layout.createSequentialGroup()
+                                .addComponent(NotaPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addContainerGap(600, Short.MAX_VALUE))
         );
+
         panel = new panelVentana(modelo);
         this.getContentPane().add(panel);
-        this.panel.setBounds(2, 92, 900, 300);
+        this.panel.setBounds(3, 92, 1190, 600);
         pack();
+
     }// </editor-fold>//GEN-END:initComponents
 
     private void botonEmpezarRecurrenciaActionPerformed(java.awt.event.ActionEvent evt) {
-       JOptionPane.showMessageDialog(null,"Se empieza a graficar la recurrencia con la profundidad de "+ this.profundidadTexto.getText());
-       modelo.setProfundidad(Integer.parseInt((this.profundidadTexto.getText())));
-       modelo.cambioDetectado();
+        logger.debug("Se Da una nueva profundidad, el controlador avisa de que hay cambios");
+        JOptionPane.showMessageDialog(null, "Se empieza a graficar la recurrencia con la profundidad de " + this.profundidadTexto.getText());
+        modelo.setProfundidad(Integer.parseInt((this.profundidadTexto.getText())));
+        modelo.cambioDetectado();
     }
+
     public static void main(String args[]) {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {

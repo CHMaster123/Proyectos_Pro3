@@ -2163,3 +2163,1737 @@
 2022-08-24 20:40:01 DEBUG (Ventana.java:496) se rellena tabla quicksort
 2022-08-24 20:40:01 DEBUG (Ventana.java:502) se calcula el tiempo y se muestra al operador
 2022-08-24 20:40:03 DEBUG (Ventana.java:517) se muestran los resultados en detalle de burbuja
+2022-08-25 12:15:16 DEBUG (Recurrencia.java:17) se crea la clase recurrencia con su profundidad. Se declara que este sera el controlador
+2022-08-25 12:15:16 DEBUG (Recurrencia.java:24) se añade el controlador
+2022-08-25 12:15:16 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 1
+2022-08-25 12:15:16 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:15:16 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:68) se da la profundidad de 4
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 4
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:38) se grafica la profundidad 2
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:38) se grafica la profundidad 3
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (575,50) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (500,125) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (650,125) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (575,200) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (425,200) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (350,275) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (500,275) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (425,350) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (725,200) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (650,275) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (800,275) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (725,350) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (575,350) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (500,425) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (650,425) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (575,500) con el ancho y alto de (25,25)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:38) se grafica la profundidad 4
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,25) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,62) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,62) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,100) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (512,100) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (475,137) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,137) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (512,175) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (662,100) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,137) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (700,137) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (662,175) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,175) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,212) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,212) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (437,175) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (400,212) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (475,212) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (437,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (362,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (325,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (400,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (362,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (512,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (475,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (512,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (437,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (400,362) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (475,362) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (437,400) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (737,175) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (700,212) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (775,212) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (737,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (662,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (700,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (662,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (812,250) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (775,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (850,287) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (812,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (737,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (700,362) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (775,362) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (737,400) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,325) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,362) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,362) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,400) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (512,400) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (475,437) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,437) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (512,475) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (662,400) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,437) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (700,437) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (662,475) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,475) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (550,512) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (625,512) con el ancho y alto de (12,12)
+2022-08-25 12:15:38 DEBUG (Recurrencia.java:52) se grafica el cuadrado en las posiciones (587,550) con el ancho y alto de (12,12)
+2022-08-25 12:17:05 DEBUG (Recurrencia.java:17) se crea la clase recurrencia con su profundidad. Se declara que este sera el controlador
+2022-08-25 12:17:05 DEBUG (Recurrencia.java:24) se añade el controlador
+2022-08-25 12:17:05 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 1
+2022-08-25 12:17:05 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:17:05 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:68) se da la profundidad de 2
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 2
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:38) se grafica la profundidad 2
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:17:09 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:68) se da la profundidad de 5
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 5
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:38) se grafica la profundidad 2
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:38) se grafica la profundidad 3
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,50) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,125) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,125) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,200) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (425,200) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (350,275) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,275) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (425,350) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (725,200) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,275) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (800,275) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (725,350) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,350) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,425) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,425) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,500) con el ancho y alto de (25,25)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:38) se grafica la profundidad 4
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,25) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,62) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,62) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,100) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (512,100) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (475,137) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,137) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (512,175) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (662,100) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,137) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,137) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (662,175) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,175) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,212) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,212) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (437,175) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (400,212) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (475,212) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (437,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (362,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (325,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (400,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (362,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (512,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (475,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (512,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (437,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (400,362) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (475,362) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (437,400) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (737,175) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,212) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (775,212) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (737,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (662,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (662,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (812,250) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (775,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (850,287) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (812,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (737,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,362) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (775,362) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (737,400) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,325) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,362) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,362) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,400) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (512,400) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (475,437) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,437) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (512,475) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (662,400) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,437) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (700,437) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (662,475) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,475) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (550,512) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (625,512) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (587,550) con el ancho y alto de (12,12)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:38) se grafica la profundidad 5
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,13) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,31) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,31) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,49) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,50) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,68) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,68) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,86) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,50) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,68) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,68) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,86) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,88) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,106) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,106) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,124) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,88) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,106) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (536,106) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,124) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,125) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (463,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (499,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,161) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,125) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,161) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,163) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (536,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,199) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,88) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,106) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (686,106) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,124) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,125) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,161) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,125) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (688,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (724,143) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,161) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,163) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (686,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,199) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,163) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,199) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,200) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,236) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,200) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,236) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,163) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (425,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (461,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,199) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (406,200) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (388,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (424,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (406,236) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,200) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (463,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (499,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,236) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (425,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (461,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (368,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (350,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (386,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (368,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (331,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (313,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (349,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (331,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (406,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (388,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (424,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (406,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (368,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (350,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (386,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (368,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (536,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (463,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (499,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (536,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (425,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (461,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (406,350) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (388,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (424,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (406,386) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,350) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (463,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (499,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,386) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,388) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (425,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (461,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (443,424) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,163) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (725,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (761,181) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,199) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,200) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (688,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (724,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,236) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (781,200) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (763,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (799,218) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (781,236) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (725,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (761,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (686,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (688,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (724,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (686,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (818,238) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (800,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (836,256) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (818,274) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (781,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (763,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (799,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (781,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (856,275) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (838,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (874,293) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (856,311) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (818,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (800,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (836,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (818,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (725,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (761,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,350) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (688,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (724,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,386) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (781,350) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (763,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (799,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (781,386) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,388) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (725,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (761,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (743,424) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,313) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,331) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,349) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,350) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,386) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,350) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,368) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,386) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,388) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,424) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,388) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (536,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,424) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,425) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (463,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (499,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (481,461) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,425) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,461) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,463) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (500,481) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (536,481) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (518,499) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,388) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (686,406) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,424) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,425) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,461) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,425) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (688,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (724,443) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (706,461) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,463) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (650,481) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (686,481) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (668,499) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,463) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,481) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,481) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,499) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,500) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (538,518) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (574,518) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (556,536) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,500) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (613,518) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (649,518) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (631,536) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,538) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (575,556) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (611,556) con el ancho y alto de (6,6)
+2022-08-25 12:17:24 DEBUG (Recurrencia.java:52) PROFUNDIDAD: 1. Se grafica el cuadrado en las posiciones (593,574) con el ancho y alto de (6,6)
+2022-08-25 12:18:21 DEBUG (Recurrencia.java:17) se crea la clase recurrencia con su profundidad. Se declara que este sera el controlador
+2022-08-25 12:18:21 DEBUG (Recurrencia.java:24) se añade el controlador
+2022-08-25 12:18:22 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 1
+2022-08-25 12:18:22 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:18:22 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:22 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:69) se da la profundidad de 5
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 5
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:38) se grafica la profundidad 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:38) se grafica la profundidad 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:38) se grafica la profundidad 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,50) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,125) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,125) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,200) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (425,200) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (350,275) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,275) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (425,350) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (725,200) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,275) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (800,275) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (725,350) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,350) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,425) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,425) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,500) con el ancho y alto de (25,25)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:38) se grafica la profundidad 4
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 4
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,25) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,62) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,62) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,100) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (512,100) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (475,137) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,137) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (512,175) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (662,100) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,137) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (700,137) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (662,175) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,175) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,212) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,212) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (437,175) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (400,212) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (475,212) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (437,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (362,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (325,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (400,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (362,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (512,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (475,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (512,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (437,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (400,362) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (475,362) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (437,400) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (737,175) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (700,212) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (775,212) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (737,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (662,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (700,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (662,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (812,250) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (775,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (850,287) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (812,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (737,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (700,362) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (775,362) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (737,400) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,325) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,362) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,362) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,400) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (512,400) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (475,437) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,437) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (512,475) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (662,400) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,437) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (700,437) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (662,475) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,475) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (550,512) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (625,512) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (587,550) con el ancho y alto de (12,12)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:38) se grafica la profundidad 5
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 5
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 4
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,13) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,31) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,31) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,49) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,50) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,68) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,68) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,86) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,50) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,68) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,68) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,86) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,88) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,106) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,106) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,124) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,88) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,106) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (536,106) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,124) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,125) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (463,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (499,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,161) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,125) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,161) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,163) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (536,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,199) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,88) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,106) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (686,106) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,124) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,125) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,161) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,125) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (688,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (724,143) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,161) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,163) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (686,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,199) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,163) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,199) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,200) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,236) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,200) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,236) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 4
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,163) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (425,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (461,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,199) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (406,200) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (388,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (424,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (406,236) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,200) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (463,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (499,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,236) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (425,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (461,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (368,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (350,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (386,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (368,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (331,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (313,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (349,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (331,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (406,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (388,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (424,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (406,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (368,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (350,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (386,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (368,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (536,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (463,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (499,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (536,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (425,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (461,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (406,350) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (388,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (424,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (406,386) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,350) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (463,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (499,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,386) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,388) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (425,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (461,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (443,424) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 4
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,163) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (725,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (761,181) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,199) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,200) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (688,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (724,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,236) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (781,200) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (763,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (799,218) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (781,236) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (725,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (761,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (686,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (688,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (724,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (686,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (818,238) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (800,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (836,256) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (818,274) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (781,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (763,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (799,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (781,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (856,275) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (838,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (874,293) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (856,311) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (818,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (800,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (836,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (818,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (725,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (761,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,350) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (688,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (724,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,386) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (781,350) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (763,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (799,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (781,386) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,388) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (725,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (761,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (743,424) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 4
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,313) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,331) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,349) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,350) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,386) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,350) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,368) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,386) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,388) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,424) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,388) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (536,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,424) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,425) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (463,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (499,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (481,461) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,425) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,461) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,463) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (500,481) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (536,481) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (518,499) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,388) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (686,406) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,424) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,425) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,461) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,425) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (688,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (724,443) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (706,461) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,463) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (650,481) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (686,481) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (668,499) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 3
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,463) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,481) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,481) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,499) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,500) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (538,518) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (574,518) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (556,536) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,500) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (613,518) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (649,518) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (631,536) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 2
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,538) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (575,556) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (611,556) con el ancho y alto de (6,6)
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:50) PROFUNDIDAD: 1
+2022-08-25 12:18:30 DEBUG (Recurrencia.java:53) Se grafica el cuadrado en las posiciones (593,574) con el ancho y alto de (6,6)
+2022-08-25 12:19:43 DEBUG (Recurrencia.java:17) se crea la clase recurrencia con su profundidad. Se declara que este sera el controlador
+2022-08-25 12:19:43 DEBUG (Recurrencia.java:24) se añade el controlador
+2022-08-25 12:19:43 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 1
+2022-08-25 12:19:43 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 1
+2022-08-25 12:19:43 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:68) se da la profundidad de 2
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 2
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 1
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 2
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:19:50 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:68) se da la profundidad de 4
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 4
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 1
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 2
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 3
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,50) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,125) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,125) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,200) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,200) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (350,275) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,275) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,350) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,200) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,275) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (800,275) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,350) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,350) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,425) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,425) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,500) con el ancho y alto de (25,25)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE: 4
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,25) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,62) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,62) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,100) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,100) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,137) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,137) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,175) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,100) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,137) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,137) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,175) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,175) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,212) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,212) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,175) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,212) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,212) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (362,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (325,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (362,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,362) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,362) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,400) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,175) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,212) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (775,212) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (812,250) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (775,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (850,287) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (812,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,362) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (775,362) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,400) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,325) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,362) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,362) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,400) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,400) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,437) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,437) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,475) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,400) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,437) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,437) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,475) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,475) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,512) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,512) con el ancho y alto de (12,12)
+2022-08-25 12:20:01 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,550) con el ancho y alto de (12,12)
+2022-08-25 12:28:03 DEBUG (Recurrencia.java:17) se crea la clase recurrencia con su profundidad. Se declara que este es el modelo
+2022-08-25 12:28:03 DEBUG (Recurrencia.java:24) se añade el controlador
+2022-08-25 12:28:03 DEBUG (panelVentana.java:31) Se crea el Panel como clase Vista
+2022-08-25 12:28:03 DEBUG (Ventana.java:28)  se crea la ventana con todos sus componentes
+2022-08-25 12:28:03 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 1
+2022-08-25 12:28:03 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE:  1
+2022-08-25 12:28:03 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:28:07 DEBUG (Ventana.java:114) Se Da una nueva profundidad, el controlador avisa de que hay cambios
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:68) se da la profundidad de 5
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:29) Cambio detectado, se dispara el aviso de cambio
+2022-08-25 12:28:08 DEBUG (panelVentana.java:45) Se detecto un cambio, se Actualiza la vista, el Panel
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:36) se empieza a graficar la recurrencia con profundidad de : 5
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE:  1
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,200) con el ancho y alto de (100,100)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE:  2
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,100) con el ancho y alto de (50,50)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,250) con el ancho y alto de (50,50)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,250) con el ancho y alto de (50,50)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,400) con el ancho y alto de (50,50)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE:  3
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,50) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,125) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,125) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,200) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,200) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (350,275) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,275) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,350) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,200) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,275) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (800,275) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,350) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,350) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,425) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,425) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,500) con el ancho y alto de (25,25)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE:  4
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,25) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,62) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,62) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,100) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,100) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,137) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,137) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,175) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,100) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,137) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,137) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,175) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,175) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,212) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,212) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,175) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,212) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,212) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (362,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (325,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (362,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (400,362) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,362) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (437,400) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,175) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,212) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (775,212) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (812,250) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (775,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (850,287) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (812,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,362) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (775,362) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (737,400) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,325) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,362) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,362) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,400) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,400) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (475,437) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,437) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (512,475) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,400) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,437) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (700,437) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (662,475) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,475) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (550,512) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (625,512) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (587,550) con el ancho y alto de (12,12)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:38) SE GRAFICA LA PROFUNDIDAD DE:  5
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,13) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,31) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,31) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,49) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,50) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,68) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,68) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,86) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,50) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,68) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,68) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,86) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,88) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,106) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,106) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,124) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,88) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,106) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (536,106) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,124) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,125) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (463,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (499,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,161) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,125) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,161) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,163) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (536,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,199) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,88) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,106) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (686,106) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,124) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,125) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,161) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,125) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (688,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (724,143) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,161) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,163) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (686,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,199) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,163) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,199) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,200) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,236) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,200) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,236) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,163) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (461,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,199) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (406,200) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (388,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (424,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (406,236) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,200) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (463,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (499,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,236) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (461,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (368,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (350,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (386,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (368,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (331,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (313,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (349,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (331,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (406,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (388,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (424,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (406,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (368,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (350,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (386,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (368,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (536,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (463,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (499,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (536,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (461,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (406,350) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (388,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (424,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (406,386) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,350) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (463,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (499,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,386) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,388) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (425,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (461,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (443,424) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,163) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (761,181) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,199) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,200) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (688,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (724,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,236) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (781,200) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (763,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (799,218) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (781,236) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (761,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (686,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (688,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (724,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (686,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (818,238) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (800,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (836,256) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (818,274) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (781,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (763,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (799,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (781,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (856,275) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (838,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (874,293) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (856,311) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (818,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (800,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (836,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (818,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (761,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,350) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (688,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (724,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,386) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (781,350) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (763,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (799,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (781,386) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,388) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (725,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (761,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (743,424) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,313) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,331) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,349) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,350) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,386) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,350) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,368) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,386) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,388) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,424) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,388) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (536,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,424) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,425) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (463,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (499,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (481,461) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,425) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,461) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,463) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (500,481) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (536,481) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (518,499) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,388) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (686,406) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,424) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,425) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,461) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,425) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (688,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (724,443) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (706,461) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,463) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (650,481) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (686,481) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (668,499) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,463) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,481) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,481) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,499) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,500) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (538,518) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (574,518) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (556,536) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,500) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (613,518) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (649,518) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (631,536) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,538) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (575,556) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (611,556) con el ancho y alto de (6,6)
+2022-08-25 12:28:08 DEBUG (Recurrencia.java:52) Se grafica el cuadrado en las posiciones (593,574) con el ancho y alto de (6,6)

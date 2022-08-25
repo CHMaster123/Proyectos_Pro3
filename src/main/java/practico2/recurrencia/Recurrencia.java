@@ -1,5 +1,8 @@
 package practico2.recurrencia;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.awt.*;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
@@ -7,29 +10,39 @@ import java.beans.PropertyChangeSupport;
 public class Recurrencia implements InterfaceDibujo {
     public int profundidad;
     public PropertyChangeSupport objeto;
+    protected static final Logger logger = LogManager.getLogger();
 
+    //Constructor de Recurrencia, se le da la profundidad y se declara que este sera el objeto a observar
     public Recurrencia(int profundidad) {
+        logger.debug("se crea la clase recurrencia con su profundidad. Se declara que este es el modelo");
         objeto = new PropertyChangeSupport(this);
         this.profundidad = profundidad;
     }
 
-
+    // se añade el metodo para declarar al controlador
     public void listenerAñadir(PropertyChangeListener listener) {
+        logger.debug("se añade el controlador");
         objeto.addPropertyChangeListener(listener);
     }
 
+    // el siguiente metodo avisa que se detecto un cambio
     public void cambioDetectado() {
+        logger.debug("Cambio detectado, se dispara el aviso de cambio");
         objeto.firePropertyChange("Recurrencia", false, true);
     }
 
+    // en este metodo se da la grafica de la recurrencia del 1 al n profundidad
     @Override
     public void dibujar(Graphics g) {
-       for (int i = 1; i <=this.profundidad; i++){
-           hacerRecurrencia(400, 100, 100, 100, i, g);
-       }
+        logger.debug("se empieza a graficar la recurrencia con profundidad de : " + this.profundidad);
+        for (int i = 1; i <= this.profundidad; i++) {
+            logger.debug("SE GRAFICA LA PROFUNDIDAD DE:  " + i);
+            hacerRecurrencia(500, 200, 200, 200, i, g);
+        }
 
     }
 
+    //este metodo grafica la recurrencia
     public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics gc) {
         int pAncho = ancho / 2;
         int vAncho = pAncho / 2;
@@ -37,11 +50,12 @@ public class Recurrencia implements InterfaceDibujo {
         int vAlto = pAlto / 2;
         if (n == 1) {
             gc.drawRect(x1, y1, ancho, alto);
+            logger.debug("Se grafica el cuadrado en las posiciones (" + x1 + "," + y1 + ") con el ancho y alto de (" + pAncho + "," + pAlto + ")");
         } else {
-            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc);
-            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc);
-            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc);
-            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc);
+            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc); // pos 1
+            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc); // pos 2
+            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc); // pos 3
+            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc);// pos 4
         }
 
     }
@@ -50,7 +64,9 @@ public class Recurrencia implements InterfaceDibujo {
         return profundidad;
     }
 
+    // Se configura la profundidad de la recursividad
     public void setProfundidad(int profundidad) {
+        logger.debug("se da la profundidad de " + profundidad);
         this.profundidad = profundidad;
     }
 
