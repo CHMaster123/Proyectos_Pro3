@@ -36,7 +36,8 @@ public class Recurrencia implements InterfaceDibujo {
         objeto.firePropertyChange("Recurrencia", false, true);
     }
 
-    // en este metodo se da la grafica de la recurrencia del 1 al n profundidad
+    // en este metodo se da la grafica de la recurrencia del 1 al n profundidad, ademas genera N colores diferentes
+    // dependiendo de la profundidad para crear patrones de colores
     @Override
     public void dibujar(Graphics g) {
         logger.debug("se empieza a graficar la recurrencia con profundidad de : " + this.profundidad);
@@ -46,6 +47,7 @@ public class Recurrencia implements InterfaceDibujo {
             int B = (int)(ramdom.nextDouble() * 255);
             int color = B | (G << 8) | (R << 16);
             this.colores[pos]=color;
+            logger.debug("se genera un color aleatorio para la profundidad "+ i);
             logger.debug("SE GRAFICA LA PROFUNDIDAD DE:  " + i);
             hacerRecurrencia(500, 200, 200, 200, i, g,this.colores[pos]);
             this.pos=i-1;
@@ -54,7 +56,7 @@ public class Recurrencia implements InterfaceDibujo {
 
     }
 
-    //este metodo grafica la recurrencia
+    //este metodo grafica la recurrencia y pinta cada cuadro con su respectivo color
     public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics gc, int color) {
         int pAncho = ancho / 2;
         int vAncho = pAncho / 2;
