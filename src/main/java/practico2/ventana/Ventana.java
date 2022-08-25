@@ -32,7 +32,7 @@ public class Ventana extends JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jSeparator1 = new javax.swing.JSeparator();
+        separadorDecoracion = new javax.swing.JSeparator();
         NotaPanel = new javax.swing.JPanel();
         botonEmpezarRecurrencia = new javax.swing.JButton();
         profundidadTexto = new javax.swing.JTextField();
@@ -88,7 +88,7 @@ public class Ventana extends JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
                 layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                        .addComponent(jSeparator1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 1200, Short.MAX_VALUE)
+                        .addComponent(separadorDecoracion, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 1200, Short.MAX_VALUE)
                         .addGroup(layout.createSequentialGroup()
                                 .addContainerGap()
                                 .addComponent(NotaPanel, javax.swing.GroupLayout.DEFAULT_SIZE, 1180, Short.MAX_VALUE)
@@ -99,7 +99,7 @@ public class Ventana extends JFrame {
                         .addGroup(layout.createSequentialGroup()
                                 .addComponent(NotaPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(separadorDecoracion, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addContainerGap(600, Short.MAX_VALUE))
         );
 
@@ -111,10 +111,24 @@ public class Ventana extends JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void botonEmpezarRecurrenciaActionPerformed(java.awt.event.ActionEvent evt) {
-        logger.debug("Se Da una nueva profundidad, el controlador avisa de que hay cambios");
-        JOptionPane.showMessageDialog(null, "Se empieza a graficar la recurrencia con la profundidad de " + this.profundidadTexto.getText());
-        modelo.setProfundidad(Integer.parseInt((this.profundidadTexto.getText())));
-        modelo.cambioDetectado();
+        if (this.profundidadTexto.getText().matches("\\d+")) {
+            if(Integer.parseInt((this.profundidadTexto.getText()))<=8) {
+                logger.debug("Se Da una nueva profundidad, el controlador avisa de que hay cambios");
+                JOptionPane.showMessageDialog(null, "Se empieza a graficar la recurrencia con la profundidad de " + this.profundidadTexto.getText());
+                modelo.setProfundidad(Integer.parseInt((this.profundidadTexto.getText())));
+                modelo.cambioDetectado();
+            }else {
+                JOptionPane.showMessageDialog(null, "Solo se puede Manejar una Profundidad maxima de 8");
+                logger.debug("solo se admiten del 1 al 8 la profundidad por lo que el metodo se cierra");
+                return;
+            }
+        } else {
+            JOptionPane.showMessageDialog(null, "Solo se admiten numeros");
+            logger.error("en esta seccion se da la condicion de solo usar numeros por lo cual el metodo se cierra ");
+            return;
+        }
+
+
     }
 
     public static void main(String args[]) {
@@ -128,7 +142,7 @@ public class Ventana extends JFrame {
 
     private javax.swing.JPanel NotaPanel;
     private javax.swing.JButton botonEmpezarRecurrencia;
-    private javax.swing.JSeparator jSeparator1;
+    private javax.swing.JSeparator separadorDecoracion;
     private javax.swing.JTextField profundidadTexto;
     private javax.swing.JLabel tituloProfundidad;
 
