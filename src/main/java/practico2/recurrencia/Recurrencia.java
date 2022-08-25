@@ -12,6 +12,8 @@ public class Recurrencia implements InterfaceDibujo {
     private int profundidad;
     private PropertyChangeSupport objeto;
     private Random ramdom= new Random();
+    private int pos = 0 ;
+    private int[] colores = new int[8];
 
     protected static final Logger logger = LogManager.getLogger();
 
@@ -39,25 +41,26 @@ public class Recurrencia implements InterfaceDibujo {
     public void dibujar(Graphics g) {
         logger.debug("se empieza a graficar la recurrencia con profundidad de : " + this.profundidad);
         for (int i = 1; i <= this.profundidad; i++) {
+            int R = (int)(ramdom.nextDouble() * 255);
+            int G = (int)(ramdom.nextDouble() * 255);
+            int B = (int)(ramdom.nextDouble() * 255);
+            int color = B | (G << 8) | (R << 16);
+            this.colores[pos]=color;
             logger.debug("SE GRAFICA LA PROFUNDIDAD DE:  " + i);
-            hacerRecurrencia(500, 200, 200, 200, i, g);
+            hacerRecurrencia(500, 200, 200, 200, i, g,this.colores[pos]);
+            this.pos=i-1;
         }
-
+     this.pos=0;
 
     }
 
     //este metodo grafica la recurrencia
-    public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics gc) {
+    public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics gc, int color) {
         int pAncho = ancho / 2;
         int vAncho = pAncho / 2;
         int pAlto = alto / 2;
         int vAlto = pAlto / 2;
         int[][] pixeles = new int[200][200];
-        int R = ramdom.nextInt() * 255;
-        int G = ramdom.nextInt() * 255;
-        int B = ramdom.nextInt() * 255;
-        int color = B | (G << 8) | (R << 16);
-
 
         if (n == 1) {
             gc.drawRect(x1, y1, ancho, alto);
@@ -73,12 +76,13 @@ public class Recurrencia implements InterfaceDibujo {
 
                 }
             }
+
             logger.debug("Se grafica el cuadrado en las posiciones (" + x1 + "," + y1 + ") con el ancho y alto de (" + pAncho + "," + pAlto + ")");
         } else {
-            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc); // pos 1
-            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc); // pos 2
-            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc); // pos 3
-            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc);// pos 4
+            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc,color); // pos 1
+            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc,color); // pos 2
+            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc,color); // pos 3
+            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc,color);// pos 4
         }
 
     }
