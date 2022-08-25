@@ -2125,3 +2125,41 @@
 2022-08-15 16:16:52 DEBUG (Ventana.java:496) se rellena tabla quicksort
 2022-08-15 16:16:52 DEBUG (Ventana.java:502) se calcula el tiempo y se muestra al operador
 2022-08-15 16:17:04 DEBUG (Ventana.java:517) se muestran los resultados en detalle de burbuja
+2022-08-24 20:39:58 DEBUG (Ventana.java:288) Comienza el metodo y se empieza a grabar el tiempo
+2022-08-24 20:39:58 INFO  (Ventana.java:289) Se asigna la cantidad maxima en el arreglo
+2022-08-24 20:39:58 DEBUG (Ventana.java:299) se obtiene la cantidad de numeros a realizar solo si son numeros
+2022-08-24 20:39:58 DEBUG (Ventana.java:317) se obtiene la cantidad de numeros a realizar definitiva
+2022-08-24 20:39:58 DEBUG (Ventana.java:318) Se empieza a rellenar el arreglo de numeros generados aleatoriamente
+2022-08-24 20:39:58 DEBUG (Ventana.java:331) se obtiene la cantidad de numeros por arreglo especifico a realizar
+2022-08-24 20:39:58 DEBUG (Ventana.java:343) se especifica la cantidad de cada arreglo
+2022-08-24 20:39:58 DEBUG (Ventana.java:345) Cantidad insercion: 327
+2022-08-24 20:39:58 DEBUG (Ventana.java:347) Cantidad burbuja: 311
+2022-08-24 20:39:58 DEBUG (Ventana.java:349) Cantidad quicksort: 362
+2022-08-24 20:39:58 DEBUG (Ventana.java:350) se empieza a rellenar cada arreglo con sus respectivos numeros
+2022-08-24 20:39:58 DEBUG (Ventana.java:351) se rellena el arreglo de Insercion por espacios vacios
+2022-08-24 20:39:58 DEBUG (Ventana.java:369) se rellena el arreglo de Burbuja por espacios vacios
+2022-08-24 20:39:58 DEBUG (Ventana.java:386) se rellena el arreglo de quicksort por espacios vacios
+2022-08-24 20:39:58 DEBUG (Ventana.java:401) se empieza a crear los strings que se mostraran en los Texts
+2022-08-24 20:39:58 DEBUG (Ventana.java:409) se juntan los numeros a mostrar de insercion
+2022-08-24 20:39:58 DEBUG (Ventana.java:413) se juntan los numeros a mostrar de Burbuja
+2022-08-24 20:39:58 DEBUG (Ventana.java:417) se verifica la cantidad de numeros, Quicksort entra en Stackoverflow caso superior a los 60.000
+2022-08-24 20:39:58 DEBUG (Ventana.java:422) se juntan los numeros a mostrar de Quicksort
+2022-08-24 20:39:58 DEBUG (Ventana.java:430) se rellena cada tabla con sus debidos numeros
+2022-08-24 20:39:58 DEBUG (Ventana.java:431) se rellena tabla insercion
+2022-08-24 20:39:58 DEBUG (Ventana.java:433) se rellena tabla burbuja
+2022-08-24 20:39:58 DEBUG (Ventana.java:435) se rellena tabla quicksort
+2022-08-24 20:39:58 DEBUG (Ventana.java:439) se calcula el tiempo y se muestra al operador
+2022-08-24 20:40:01 DEBUG (Ventana.java:446) se empieza a calcular el tiempo que tomara el metodo
+2022-08-24 20:40:01 DEBUG (Ventana.java:452) Se ordena por modo insercion
+2022-08-24 20:40:01 DEBUG (Ventana.java:455) Se ordena por modo Burbuja
+2022-08-24 20:40:01 DEBUG (Ventana.java:459) Se ordena por modo Quicksort
+2022-08-24 20:40:01 DEBUG (Ordenar.java:33) quicksort entra en Stackoverflow si se usa mas de 60.000 numeros
+2022-08-24 20:40:01 DEBUG (Ventana.java:473) se juntanlos numeros a mostrar de insercion ordenados
+2022-08-24 20:40:01 DEBUG (Ventana.java:477) se juntan los numeros a mostrar de burbuja ordenados
+2022-08-24 20:40:01 DEBUG (Ventana.java:481) se juntan los numeros a mostrar de Quicksort ordenados
+2022-08-24 20:40:01 DEBUG (Ventana.java:491) se rellena cada tabla con sus debidos numeros
+2022-08-24 20:40:01 DEBUG (Ventana.java:492) se rellena tabla insercion
+2022-08-24 20:40:01 DEBUG (Ventana.java:494) se rellena tabla burbuja
+2022-08-24 20:40:01 DEBUG (Ventana.java:496) se rellena tabla quicksort
+2022-08-24 20:40:01 DEBUG (Ventana.java:502) se calcula el tiempo y se muestra al operador
+2022-08-24 20:40:03 DEBUG (Ventana.java:517) se muestran los resultados en detalle de burbuja
