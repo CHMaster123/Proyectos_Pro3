@@ -69,6 +69,9 @@ public class Recurrencia implements InterfaceDibujo {
             g.fillRect(x1, y1, ancho, alto);
             logger.debug("Se grafica el cuadrado en las posiciones (" + x1 + "," + y1 + ") con el ancho y alto de (" + pAncho + "," + pAlto + ")");
         } else {
+            // si desean quitar el for para poder graficar todos los cuadrados, se aumenta esta linea de codigo y se cambia
+            // el for mencionado en el metodo dibujar
+            //  hacerRecurrencia(x1,y1,ancho,alto,n-1,g,color);
             hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, g, color); // pos 1
             hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, g, color); // pos 2
             hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, g, color); // pos 3
