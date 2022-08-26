@@ -57,22 +57,22 @@ public class Recurrencia implements InterfaceDibujo {
     }
 
     //este metodo grafica la recurrencia y pinta cada cuadro con su respectivo color
-    public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics gc, int color) {
+    public void hacerRecurrencia(int x1, int y1, int ancho, int alto, int n, Graphics g, int color) {
         int pAncho = ancho / 2;
         int vAncho = pAncho / 2;
         int pAlto = alto / 2;
         int vAlto = pAlto / 2;
 
         if (n == 1) {
-            gc.setColor(new Color(color));
-            gc.drawRect(x1, y1, ancho, alto);
-            gc.fillRect(x1, y1, ancho, alto);
+            g.setColor(new Color(color));
+            g.drawRect(x1, y1, ancho, alto);
+            g.fillRect(x1, y1, ancho, alto);
             logger.debug("Se grafica el cuadrado en las posiciones (" + x1 + "," + y1 + ") con el ancho y alto de (" + pAncho + "," + pAlto + ")");
         } else {
-            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc, color); // pos 1
-            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc, color); // pos 2
-            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc, color); // pos 3
-            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc, color);// pos 4
+            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, g, color); // pos 1
+            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, g, color); // pos 2
+            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, g, color); // pos 3
+            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, g, color);// pos 4
         }
 
     }
