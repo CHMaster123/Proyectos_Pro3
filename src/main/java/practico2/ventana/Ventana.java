@@ -112,7 +112,7 @@ public class Ventana extends JFrame {
 
     private void botonEmpezarRecurrenciaActionPerformed(java.awt.event.ActionEvent evt) {
         if (this.profundidadTexto.getText().matches("\\d+")) {
-            if(Integer.parseInt((this.profundidadTexto.getText()))<=8) {
+            if(Integer.parseInt((this.profundidadTexto.getText()))<=8 && Integer.parseInt((this.profundidadTexto.getText()))>0) {
                 logger.debug("Se Da una nueva profundidad, el controlador avisa de que hay cambios");
                 JOptionPane.showMessageDialog(null, "Se empieza a graficar la recurrencia con la profundidad de " + this.profundidadTexto.getText());
                 modelo.setProfundidad(Integer.parseInt((this.profundidadTexto.getText())));

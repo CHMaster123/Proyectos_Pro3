@@ -11,8 +11,8 @@ import java.util.Random;
 public class Recurrencia implements InterfaceDibujo {
     private int profundidad;
     private PropertyChangeSupport objeto;
-    private Random ramdom= new Random();
-    private int pos = 0 ;
+    private Random ramdom = new Random();
+    private int pos = 0;
     private int[] colores = new int[8];
 
     protected static final Logger logger = LogManager.getLogger();
@@ -42,17 +42,17 @@ public class Recurrencia implements InterfaceDibujo {
     public void dibujar(Graphics g) {
         logger.debug("se empieza a graficar la recurrencia con profundidad de : " + this.profundidad);
         for (int i = 1; i <= this.profundidad; i++) {
-            int R = (int)(ramdom.nextDouble() * 255);
-            int G = (int)(ramdom.nextDouble() * 255);
-            int B = (int)(ramdom.nextDouble() * 255);
+            int R = (int) (ramdom.nextDouble() * 255);
+            int G = (int) (ramdom.nextDouble() * 255);
+            int B = (int) (ramdom.nextDouble() * 255);
             int color = B | (G << 8) | (R << 16);
-            this.colores[pos]=color;
-            logger.debug("se genera un color aleatorio para la profundidad "+ i);
+            this.colores[pos] = color;
+            logger.debug("se genera un color aleatorio para la profundidad " + i);
             logger.debug("SE GRAFICA LA PROFUNDIDAD DE:  " + i);
-            hacerRecurrencia(500, 200, 200, 200, i, g,this.colores[pos]);
-            this.pos=i-1;
+            hacerRecurrencia(500, 200, 200, 200, i, g, this.colores[pos]);
+            this.pos = i - 1;
         }
-     this.pos=0;
+        this.pos = 0;
 
     }
 
@@ -62,29 +62,17 @@ public class Recurrencia implements InterfaceDibujo {
         int vAncho = pAncho / 2;
         int pAlto = alto / 2;
         int vAlto = pAlto / 2;
-        int[][] pixeles = new int[200][200];
 
         if (n == 1) {
+            gc.setColor(new Color(color));
             gc.drawRect(x1, y1, ancho, alto);
-            for (int i = 0; i < 200; i++) {
-                for (int j = 0; j < 200; j++) {
-                    pixeles[i][j] = color;
-                }
-            }
-            for (int i = 0; i < ancho; i++) {
-                for (int j = 0; j < alto; j++) {
-                    gc.setColor(new Color(pixeles[i][j]));
-                    gc.drawLine(x1 + i, y1 + j, x1 + ancho, y1 + alto);
-
-                }
-            }
-
+            gc.fillRect(x1, y1, ancho, alto);
             logger.debug("Se grafica el cuadrado en las posiciones (" + x1 + "," + y1 + ") con el ancho y alto de (" + pAncho + "," + pAlto + ")");
         } else {
-            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc,color); // pos 1
-            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc,color); // pos 2
-            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc,color); // pos 3
-            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc,color);// pos 4
+            hacerRecurrencia(x1 + vAncho, y1 - pAlto, pAncho, pAlto, n - 1, gc, color); // pos 1
+            hacerRecurrencia(x1 - pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc, color); // pos 2
+            hacerRecurrencia(x1 + 2 * pAncho, y1 + vAlto, pAncho, pAlto, n - 1, gc, color); // pos 3
+            hacerRecurrencia(x1 + vAncho, y1 + 2 * pAlto, pAncho, pAlto, n - 1, gc, color);// pos 4
         }
 
     }
