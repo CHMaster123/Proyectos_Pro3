@@ -1,0 +1,32 @@
+
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÀûĞûÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ØÙåÿÿÿÿÿ
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¶öÿ
+R
+java:S2629+"7Use the built-in formatting to construct this argument.(ï“Øüÿÿÿÿ
+T
+java:S26292"7Use the built-in formatting to construct this argument.(ı¿›8¾¯ğÏ­0
+T
+java:S26293"7Use the built-in formatting to construct this argument.(Æ§í…8¡ˆğÏ­0
+T
+java:S2629F"7Use the built-in formatting to construct this argument.(¶¬î¶8²¶Ï­0
+R
+java:S2629Y"7Use the built-in formatting to construct this argument.(²ÄÓøÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô’Î°
+\
+java:S3457+"AFormat specifiers should be used instead of string concatenation.(ï“Øüÿÿÿÿ
+3
+java:S2140-"Use "nextInt()" instead.(‚ÀûĞûÿÿÿÿ
+3
+java:S2140."Use "nextInt()" instead.(³ØÙåÿÿÿÿÿ
+.
+java:S2140/"Use "nextInt()" instead.(Â¶öÿ
+^
+java:S34572"AFormat specifiers should be used instead of string concatenation.(ı¿›8Í¯ğÏ­0
+^
+java:S34573"AFormat specifiers should be used instead of string concatenation.(Æ§í…8°ˆğÏ­0
+^
+java:S3457F"AFormat specifiers should be used instead of string concatenation.(¶¬î¶8ª²¶Ï­0
+]	java:S125J"<This block of commented-out lines of code should be removed.(–©šúÿÿÿÿ8ŒôÏ­0
+\
+java:S3457Y"AFormat specifiers should be used instead of string concatenation.(²ÄÓøÿÿÿÿ

@@ -1,0 +1,9 @@
+
+T
+java:S2589A"7Remove this expression which always evaluates to "true"(²â‡¿8±ş±­0
+e
+java:S25830"CChange this condition so that it does not always evaluate to "true"(„¯ »ıÿÿÿÿ8´ş±­0
+t
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹ˆ¸üÿÿÿÿ8åş±­0
+I
+java:S1125["'Remove the unnecessary boolean literal.(‘Şùÿÿÿÿ8òş±­0
