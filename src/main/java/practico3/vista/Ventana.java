@@ -177,7 +177,6 @@ public class Ventana extends javax.swing.JFrame {
 
 
         grupoFiguras = new javax.swing.ButtonGroup();
-        grupoTransformaciones = new javax.swing.ButtonGroup();
         panelFiguras = new javax.swing.JPanel();
         textoTamaño = new javax.swing.JTextField();
         botonLinea = new javax.swing.JRadioButton();
