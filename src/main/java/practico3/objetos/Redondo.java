@@ -1,5 +1,7 @@
 package practico3.objetos;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico3.interfaces.IDibujo;
 
 import java.awt.*;
@@ -12,6 +14,7 @@ public class Redondo implements IDibujo {
     private int tamano;
     private PropertyChangeSupport observado;
     private boolean seleccionado;
+    protected static final Logger logger = LogManager.getLogger();
 
     public Redondo(int m, int n, int t) {
         x = m;
@@ -26,6 +29,8 @@ public class Redondo implements IDibujo {
 
     @Override
     public void dibujar(Graphics g) {
+        logger.debug("se dibuja un redondo");
+        g.setColor(Color.orange);
         g.fillRoundRect(x, y, tamano, tamano, tamano, tamano);
     }
 
@@ -62,8 +67,9 @@ public class Redondo implements IDibujo {
     }
 
     public void moverA(int x, int y) {
-        this.x = x;
-        this.y = y;
-        observado.firePropertyChange("CUADRADO", false, true);
+        logger.debug("se mueve a POS X:"+ x +" POS Y:" +y);
+        this.x = x-(tamano/2);
+        this.y = y-(tamano/2);
+        observado.firePropertyChange("REDONDO", false, true);
     }
 }

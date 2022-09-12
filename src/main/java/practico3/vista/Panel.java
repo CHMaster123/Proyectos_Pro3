@@ -1,5 +1,7 @@
 package practico3.vista;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico3.dibujo.Escena;
 import practico3.objetos.Cuadrado;
 import practico3.objetos.Letras;
@@ -14,10 +16,10 @@ import java.awt.event.MouseMotionListener;
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 
-public class Panel extends JPanel
-        implements PropertyChangeListener, MouseListener, MouseMotionListener {
+public class Panel extends JPanel implements PropertyChangeListener, MouseListener, MouseMotionListener {
 
     private Escena modelo;
+    protected static final Logger logger = LogManager.getLogger();
 
     public Panel(Escena escena) {
         modelo = escena;
@@ -46,12 +48,13 @@ public class Panel extends JPanel
 
     @Override
     public void propertyChange(PropertyChangeEvent evt) {
+        logger.debug("se detecto un cambio, se repinta el panel");
         this.repaint();
     }
 
     @Override
     public void mouseClicked(MouseEvent e) {
-
+        logger.debug("click boiiii");
     }
 
     @Override
@@ -66,12 +69,12 @@ public class Panel extends JPanel
 
     @Override
     public void mouseEntered(MouseEvent e) {
-
+    // no es necesario
     }
 
     @Override
     public void mouseExited(MouseEvent e) {
-
+    // no es necesario
     }
 
     @Override
@@ -96,6 +99,6 @@ public class Panel extends JPanel
 
     @Override
     public void mouseMoved(MouseEvent e) {
-
+    // no es necesario
     }
 }

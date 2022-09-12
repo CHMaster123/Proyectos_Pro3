@@ -3,17 +3,14 @@ package practico3.vista;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import practico2.ventana.panelVentana;
 import practico3.dibujo.Escena;
-import practico3.interfaces.IDibujo;
 import practico3.objetos.Cuadrado;
 import practico3.objetos.Letras;
 import practico3.objetos.Linea;
 import practico3.objetos.Redondo;
-
 import javax.swing.*;
 import java.io.File;
-import java.lang.reflect.Constructor;
+
 
 public class Ventana extends javax.swing.JFrame {
 
@@ -25,23 +22,28 @@ public class Ventana extends javax.swing.JFrame {
 
 
     public Ventana() {
+        logger.debug("Se generan todos los componentes de la ventana y el panel");
         initComponents();
     }
 
-    private void botonAñadirImagenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonAñadirImagenActionPerformed
+    private void botonAñadirImagenActionPerformed(java.awt.event.ActionEvent evt) {
         subirImagen();
     }
 
-    private void botonCrearFigurasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonCrearFigurasActionPerformed
+    private void botonCrearFigurasActionPerformed(java.awt.event.ActionEvent evt) {
         if (this.botonCuadrado.isSelected() == true) {
             crearCuadrado();
+            logger.debug("Se crea una figura de tipo Cuadrado");
         }
         if (this.botonLinea.isSelected() == true) {
             crearLineas();
+            logger.debug("Se crea una figura de tipo linea");
         }
         if (this.botonCirculo.isSelected() == true) {
             crearRedondo();
+            logger.debug("se crea una figura de tipo redondo");
         }
+
     }
 
     private void botonLetrasActionPerformed(java.awt.event.ActionEvent evt) {
@@ -72,16 +74,17 @@ public class Ventana extends javax.swing.JFrame {
     */
 
     private void crearCuadrado() {
+        logger.debug("se verifica que el tamaño este en numeros");
         if (this.textoTamaño.getText().matches("\\d+")) {
             int tamaño = Integer.parseInt(this.textoTamaño.getText());
-            if (tamaño <= 300) {
-                logger.debug("Se da un nuevo tamaño, el controlador avisa de que hay cambios");
-                Cuadrado c = new Cuadrado(50, 50, tamaño);
+            if (tamaño <= 600) {
+                logger.debug("Se da un nuevo tamaño,se crea el cuadrado");
+                Cuadrado c = new Cuadrado(200, 50, tamaño);
                 c.addListener(panel);
                 modelo.addCuadrado(c);
             } else {
-                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 100");
-                logger.debug("solo se aceptan tamaños menor/iguales a 100");
+                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600");
+                logger.debug("solo se aceptan tamaños menor/iguales a 600");
                 return;
             }
         } else {
@@ -95,14 +98,14 @@ public class Ventana extends javax.swing.JFrame {
     private void crearRedondo() {
         if (this.textoTamaño.getText().matches("\\d+")) {
             int tamaño = Integer.parseInt(this.textoTamaño.getText());
-            if (tamaño <= 300) {
-                logger.debug("Se da un nuevo tamaño, el controlador avisa de que hay cambios");
+            if (tamaño <= 600) {
+                logger.debug("Se da un nuevo tamaño, se crea el redondo");
                 Redondo c = new Redondo(50, 50, tamaño);
                 c.addListener(panel);
                 modelo.addRedondo(c);
             } else {
-                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 100");
-                logger.debug("solo se aceptan tamaños menor/iguales a 100");
+                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600");
+                logger.debug("solo se aceptan tamaños menor/iguales a 600");
                 return;
             }
         } else {
@@ -116,14 +119,14 @@ public class Ventana extends javax.swing.JFrame {
     private void crearLineas() {
         if (this.textoTamaño.getText().matches("\\d+")) {
             int tamaño = Integer.parseInt(this.textoTamaño.getText());
-            if (tamaño <= 300) {
-                logger.debug("Se da un nuevo tamaño, el controlador avisa de que hay cambios");
+            if (tamaño <= 600) {
+                logger.debug("Se da un nuevo tamaño,se crea la linea");
                 Linea c = new Linea(50, 50, tamaño);
                 c.addListener(panel);
                 modelo.addLineas(c);
             } else {
-                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 100");
-                logger.debug("solo se aceptan tamaños menor/iguales a 100");
+                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600");
+                logger.debug("solo se aceptan tamaños menor/iguales a 600");
                 return;
             }
         } else {
@@ -135,6 +138,7 @@ public class Ventana extends javax.swing.JFrame {
     }
 
     private void crearLetras(String texto) {
+        logger.debug("se verifica que sean solo letras");
         if (this.textoLetras.getText().matches("\\d+")) {
             JOptionPane.showMessageDialog(null, "solo se aceptan letras");
             logger.debug("solo se aceptan letras");
@@ -150,6 +154,7 @@ public class Ventana extends javax.swing.JFrame {
     }
 
     private void subirImagen() {
+        logger.debug("Se inicia la subida de la imagen");
         String lastDir = "C:\\Users\\crist\\IdeaProjects\\Imagenes";
         JFileChooser inputFile = new JFileChooser();
         if (!lastDir.equals(""))
@@ -164,6 +169,7 @@ public class Ventana extends javax.swing.JFrame {
 
 
         File archivoConImagen = inputFile.getSelectedFile();
+        logger.debug("Imagen Subida, Se pasa al Escenario para poder graficarla");
         modelo.getImagen().cargarImagen(archivoConImagen);
     }
 
@@ -331,7 +337,6 @@ public class Ventana extends javax.swing.JFrame {
     private javax.swing.JButton botonLetras;
     private javax.swing.JRadioButton botonLinea;
     private javax.swing.ButtonGroup grupoFiguras;
-    private javax.swing.ButtonGroup grupoTransformaciones;
     private javax.swing.JPanel panelFiguras;
     private javax.swing.JPanel panelOpciones;
     private javax.swing.JTextField textoLetras;

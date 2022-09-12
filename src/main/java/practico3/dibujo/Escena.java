@@ -1,6 +1,8 @@
 package practico3.dibujo;
 
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico3.interfaces.IDibujo;
 import practico3.objetos.Cuadrado;
 import practico3.objetos.Letras;
@@ -20,6 +22,7 @@ public class Escena implements IDibujo {
     private ArrayList<Linea> lineas;
     private ArrayList<Letras> letras;
     private PropertyChangeSupport observado;
+    protected static final Logger logger = LogManager.getLogger();
 
     public Escena() {
         imagen = new Imagen(1214, 690);

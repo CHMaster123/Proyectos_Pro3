@@ -1,5 +1,7 @@
 package practico3.objetos;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico3.interfaces.IDibujo;
 
 import java.awt.*;
@@ -12,6 +14,7 @@ public class Linea implements IDibujo {
     private int tamano;
     private PropertyChangeSupport observado;
     private boolean seleccionado;
+    protected static final Logger logger = LogManager.getLogger();
 
     public Linea(int m, int n, int t) {
         x = m;
@@ -26,7 +29,9 @@ public class Linea implements IDibujo {
 
     @Override
     public void dibujar(Graphics g) {
-        g.drawLine(x, y, x + tamano, y + tamano);
+        logger.debug("se dibuja una linea");
+        g.setColor(Color.green);
+        g.drawLine(x, y+tamano/2, x + tamano, y+(tamano/2) );
     }
 
     public int getX() {
@@ -62,8 +67,9 @@ public class Linea implements IDibujo {
     }
 
     public void moverA(int x, int y) {
-        this.x = x;
-        this.y = y;
+        logger.debug("se mueve a POS X:"+ x +" POS Y:" +y);
+        this.x = x-(tamano/2);
+        this.y = y-(tamano/2);
         observado.firePropertyChange("CUADRADO", false, true);
     }
 }

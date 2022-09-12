@@ -26,7 +26,6 @@ public class Imagen implements IDibujo {
         pixeles = new int[ancho][alto];
         observado = new PropertyChangeSupport(this);
     }
-
     public Imagen(Imagen img) {
         ancho = img.getAncho();
         alto = img.getAlto();
@@ -39,11 +38,9 @@ public class Imagen implements IDibujo {
         }
         observado = new PropertyChangeSupport(this);
     }
-
     public int[][] getPixeles() {
         return pixeles;
     }
-
     public void setPixeles(int[][] nuevos, int w, int h) {
         pixeles = nuevos;
         ancho = w;
@@ -51,25 +48,14 @@ public class Imagen implements IDibujo {
 
         observado.firePropertyChange("IMAGEN", true, false);
     }
-
-    public void cambiosRelizados() {
-        observado.firePropertyChange("IMAGEN", true, false);
-    }
-
     public int get(int i, int j) {
         return pixeles[i][j];
     }
-
     public void addListener(PropertyChangeListener listener) {
         observado.addPropertyChangeListener(listener);
     }
-
-    public void setColor(int x, int y, int r, int g, int b) {
-        //pixeles[x][y] = r + g*256 + b*256*256;
-        pixeles[x][y] = b | (g << 8) | (r << 16);
-    }
-
     public void dibujar(Graphics g) {
+        logger.debug("se dibuja una imagen");
         for (int i = 0; i < ancho; i++) {
             for (int j = 0; j < alto; j++) {
                 g.setColor(new Color(pixeles[i][j]));

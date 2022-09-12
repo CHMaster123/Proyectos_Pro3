@@ -1,5 +1,7 @@
 package practico3.objetos;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import practico3.interfaces.IDibujo;
 
 import java.awt.*;
@@ -13,6 +15,7 @@ public class Letras implements IDibujo {
     private String texto;
     private PropertyChangeSupport observado;
     private boolean seleccionado;
+    protected static final Logger logger = LogManager.getLogger();
 
     public Letras(int m, int n, String texto) {
         x = m;
@@ -27,6 +30,7 @@ public class Letras implements IDibujo {
 
     @Override
     public void dibujar(Graphics g) {
+        logger.debug("se dibuja unas letras");
         g.setColor(Color.RED);
         g.drawString(texto, x, y);
     }
@@ -64,6 +68,7 @@ public class Letras implements IDibujo {
     }
 
     public void moverA(int x, int y) {
+        logger.debug("se mueve a POS X:"+ x +" POS Y:" +y);
         this.x = x;
         this.y = y;
         observado.firePropertyChange("CUADRADO", false, true);
