@@ -4,7 +4,6 @@ package practico4.vista;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import practico4.dibujo.Escena;
-import practico4.interfaces.IFiguras;
 import practico4.interfaces.ITransformacion;
 import practico4.objetos.*;
 
@@ -19,13 +18,15 @@ public class Ventana extends JFrame {
     protected static final Logger logger = LogManager.getLogger();
     private Panel panel;
     private Escena modelo = new Escena();
+    private final String  mensaje = "Cree una escena primero";
+    private final String  mensaje2 = "se necesita una escena para subir imagen";
     public Ventana() {
         logger.debug("Se generan todos los componentes de la ventana y el panel");
         initComponents();
     }
     private void botonTransformarActionPerformed(java.awt.event.ActionEvent evt) {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
+            JOptionPane.showMessageDialog(null,mensaje);
             logger.debug("se necesita una escena");
             return;
         }
@@ -71,9 +72,9 @@ public class Ventana extends JFrame {
 
 
     private void botonAñadirImagenActionPerformed(java.awt.event.ActionEvent evt) {
-        if (panel == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
-            logger.debug("se necesita una escena para subir imagen");
+        if (paneles.getSelectedComponent()==null){
+            JOptionPane.showMessageDialog(null,mensaje);
+            logger.debug(mensaje2);
             return;
         }
         this.panel = (Panel) this.paneles.getSelectedComponent();
@@ -84,7 +85,7 @@ public class Ventana extends JFrame {
 
     private void botonCrearFigurasActionPerformed(java.awt.event.ActionEvent evt) {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
+            JOptionPane.showMessageDialog(null,mensaje);
             logger.debug("se necesita una escena para crear figuras");
             return;
         }
@@ -131,7 +132,7 @@ public class Ventana extends JFrame {
     }
     private void crearCuadrado() {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
+            JOptionPane.showMessageDialog(null,mensaje);
             logger.debug("se necesita una escena para crear cuadrados");
             return;
         }
@@ -160,7 +161,7 @@ public class Ventana extends JFrame {
 
     private void crearRedondo() {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
+            JOptionPane.showMessageDialog(null,mensaje);
             logger.debug("se necesita una escena para crear redondos");
             return;
         }
@@ -188,7 +189,7 @@ public class Ventana extends JFrame {
 
     private void crearLineas() {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
+            JOptionPane.showMessageDialog(null,mensaje);
             logger.debug("se necesita una escena para crear lineas");
             return;
         }
@@ -216,8 +217,8 @@ public class Ventana extends JFrame {
 
     private void crearLetras(String texto) {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
-            logger.debug("se necesita una escena para subir imagen");
+            JOptionPane.showMessageDialog(null,mensaje);
+            logger.debug(mensaje2);
             return;
         }
         this.panel = (Panel) this.paneles.getSelectedComponent();
@@ -238,8 +239,8 @@ public class Ventana extends JFrame {
 
     private void subirImagen() {
         if (this.paneles.getSelectedComponent() == null){
-            JOptionPane.showMessageDialog(null,"Cree una escena Primero");
-            logger.debug("se necesita una escena para subir imagen");
+            JOptionPane.showMessageDialog(null,mensaje);
+            logger.debug(mensaje2);
             return;
         }
         this.panel = (Panel) this.paneles.getSelectedComponent();

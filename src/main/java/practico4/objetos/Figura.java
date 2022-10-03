@@ -2,7 +2,6 @@ package practico4.objetos;
 
 import practico4.interfaces.IFiguras;
 
-import java.awt.*;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 
@@ -28,19 +27,19 @@ public abstract class Figura implements IFiguras {
         observado.addPropertyChangeListener(listener);
     }
 
-    public int getX() {
+    public int getPosicionX() {
         return x;
     }
 
-    public void setX(int x) {
-        this.x = x;
+    public void setPosicionX(int posicionX) {
+        this.x = posicionX;
     }
 
-    public int getY() {
+    public int getPosicionY() {
         return y;
     }
 
-    public void setY(int y) {
-        this.y = y;
+    public void setPosicionY(int posicionY) {
+        this.y = posicionY;
     }
 }

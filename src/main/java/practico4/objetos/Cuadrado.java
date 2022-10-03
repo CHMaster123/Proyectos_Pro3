@@ -22,8 +22,8 @@ public class Cuadrado extends Figura {
 
     @Override
     public boolean estaDentroDeLaFigura(int x, int y) {
-        return (x > getX() && x < (getX() + getTamano()) &&
-                y > getY() && y < (getY() + getTamano()));
+        return (x > getPosicionX() && x < (getPosicionX() + getTamano()) &&
+                y > getPosicionY() && y < (getPosicionY() + getTamano()));
     }
 
     @Override

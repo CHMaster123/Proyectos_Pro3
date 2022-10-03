@@ -2,7 +2,6 @@ package practico4.objetos;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import practico4.interfaces.IDibujo;
 
 import java.awt.*;
 import java.beans.PropertyChangeListener;
@@ -35,20 +34,20 @@ public class Letras extends Figura {
         g.drawString(texto, x, y);
     }
 
-    public int getX() {
+    public int getPosicionX() {
         return x;
     }
 
-    public void setX(int x) {
-        this.x = x;
+    public void setPosicionX(int posicionX) {
+        this.x = posicionX;
     }
 
-    public int getY() {
+    public int getPosicionY() {
         return y;
     }
 
-    public void setY(int y) {
-        this.y = y;
+    public void setPosicionY(int posicionY) {
+        this.y = posicionY;
     }
 
     public int getTamano() {
@@ -65,8 +64,8 @@ public class Letras extends Figura {
 
     @Override
     public boolean estaDentroDeLaFigura(int x, int y) {
-        return (x > getX() && x < (getX() + getTamano()) &&
-                y > getY() && y < (getY() + getTamano()));
+        return (x > getPosicionX() && x < (getPosicionX() + getTamano()) &&
+                y > getPosicionY() && y < (getPosicionY() + getTamano()));
     }
 
     public void setSeleccionado(boolean seleccionado) {
