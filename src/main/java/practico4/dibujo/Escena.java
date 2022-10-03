@@ -5,6 +5,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import practico4.interfaces.IDibujo;
 import practico4.interfaces.IFiguras;
+import practico4.listas.Lista;
 import practico4.objetos.*;
 import practico4.vista.Panel;
 
@@ -15,13 +16,13 @@ import java.util.ArrayList;
 
 public class Escena implements IDibujo {
     private Imagen imagen;
-    private ArrayList<Figura> objetos;
+    private Lista<Figura> objetos;
     private PropertyChangeSupport observado;
     protected static final Logger logger = LogManager.getLogger();
 
     public Escena() {
         imagen = new Imagen(1214, 690);
-        objetos = new ArrayList<>();
+        objetos = new Lista<>();
         observado = new PropertyChangeSupport(this);
     }
 
@@ -51,7 +52,7 @@ public class Escena implements IDibujo {
     }
 
     public void addFigura(Figura c) {
-        objetos.add(c);
+        objetos.insertar(c);
         observado.firePropertyChange("ESCENA", true, false);
     }
 
