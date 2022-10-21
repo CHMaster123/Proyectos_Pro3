@@ -89,6 +89,7 @@ public class Ventana extends JFrame {
             logger.debug("se necesita una escena para crear figuras");
             return;
         }
+
         this.panel = (Panel) this.paneles.getSelectedComponent();
         this.modelo = panel.getModelo();
         if (this.botonCuadrado.isSelected() == true) {
@@ -136,19 +137,20 @@ public class Ventana extends JFrame {
             logger.debug("se necesita una escena para crear cuadrados");
             return;
         }
+
         this.panel = (Panel) this.paneles.getSelectedComponent();
         this.modelo = panel.getModelo();
         logger.debug("se verifica que el tamaño este en numeros");
         if (this.textoTamaño.getText().matches("\\d+")) {
             int tamaño = Integer.parseInt(this.textoTamaño.getText());
-            if (tamaño <= 600) {
+            if (tamaño <= 600 && tamaño >=1) {
                 logger.debug("Se da un nuevo tamaño,se crea el cuadrado");
                 Cuadrado c = new Cuadrado(200, 50, tamaño);
                 c.addListener(panel);
                 modelo.addFigura(c);
             } else {
-                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600");
-                logger.debug("solo se aceptan tamaños menor/iguales a 600");
+                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600 y mayores de 0");
+                logger.debug("solo se aceptan tamaños menor/iguales a 600 y mayores de 0");
                 return;
             }
         } else {
@@ -169,14 +171,14 @@ public class Ventana extends JFrame {
         this.modelo = panel.getModelo();
         if (this.textoTamaño.getText().matches("\\d+")) {
             int tamaño = Integer.parseInt(this.textoTamaño.getText());
-            if (tamaño <= 600) {
+            if (tamaño <= 600 && tamaño >=1) {
                 logger.debug("Se da un nuevo tamaño, se crea el redondo");
                 Circulo c = new Circulo(50, 50, tamaño);
                 c.addListener(panel);
                 modelo.addFigura(c);
             } else {
-                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600");
-                logger.debug("solo se aceptan tamaños menor/iguales a 600");
+                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600 y mayores de 0");
+                logger.debug("solo se aceptan tamaños menor/iguales a 600 y mayores de 0");
                 return;
             }
         } else {
@@ -197,14 +199,14 @@ public class Ventana extends JFrame {
         this.modelo = panel.getModelo();
         if (this.textoTamaño.getText().matches("\\d+")) {
             int tamaño = Integer.parseInt(this.textoTamaño.getText());
-            if (tamaño <= 600) {
+            if (tamaño <= 600 && tamaño >=1) {
                 logger.debug("Se da un nuevo tamaño,se crea la linea");
                 Linea c = new Linea(50, 50, tamaño);
                 c.addListener(panel);
                 modelo.addFigura(c);
             } else {
-                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600");
-                logger.debug("solo se aceptan tamaños menor/iguales a 600");
+                JOptionPane.showMessageDialog(null, "solo se aceptan tamaños menor/iguales a 600 y mayores de 0");
+                logger.debug("solo se aceptan tamaños menor/iguales a 600 y mayores de 0");
                 return;
             }
         } else {

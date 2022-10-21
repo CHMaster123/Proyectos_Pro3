@@ -3030,3 +3030,1039 @@
 2022-10-03 17:57:55 DEBUG (Panel.java:75) click boiiii 2
 2022-10-03 17:57:56 DEBUG (Panel.java:75) click boiiii 2
 2022-10-03 17:57:56 DEBUG (Panel.java:75) click boiiii 2
+2022-10-03 18:03:28 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-03 18:03:37 DEBUG (Ventana.java:64) no hay escenas creadas
+2022-10-03 18:03:38 DEBUG (Ventana.java:30) se necesita una escena
+2022-10-03 18:03:40 DEBUG (Ventana.java:221) se necesita una escena para subir imagen
+2022-10-03 18:03:40 DEBUG (Ventana.java:111) se crean letras al panel 0
+2022-10-03 18:03:41 DEBUG (Ventana.java:89) se necesita una escena para crear figuras
+2022-10-03 18:03:43 DEBUG (Ventana.java:77) se necesita una escena para subir imagen
+2022-10-03 18:03:46 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:46 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:46 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:46 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:46 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:46 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:47 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:47 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:47 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:48 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:03:48 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:03:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:48 DEBUG (Ventana.java:70) Se elimina el panel Numero 1
+2022-10-03 18:03:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:48 DEBUG (Ventana.java:70) Se elimina el panel Numero 2
+2022-10-03 18:03:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:48 DEBUG (Ventana.java:70) Se elimina el panel Numero 3
+2022-10-03 18:03:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:48 DEBUG (Ventana.java:70) Se elimina el panel Numero 4
+2022-10-03 18:03:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:48 DEBUG (Ventana.java:70) Se elimina el panel Numero 5
+2022-10-03 18:03:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:49 DEBUG (Ventana.java:70) Se elimina el panel Numero 6
+2022-10-03 18:03:49 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:49 DEBUG (Ventana.java:70) Se elimina el panel Numero 7
+2022-10-03 18:03:49 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:49 DEBUG (Ventana.java:70) Se elimina el panel Numero 8
+2022-10-03 18:03:49 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:49 DEBUG (Ventana.java:70) Se elimina el panel Numero 9
+2022-10-03 18:03:49 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:03:49 DEBUG (Ventana.java:70) Se elimina el panel Numero 10
+2022-10-03 18:04:06 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-03 18:04:12 DEBUG (Ventana.java:54) se crea una escena
+2022-10-03 18:04:12 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-03 18:04:12 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:15 ERROR (Ventana.java:212) en esta seccion se da la condicion de solo usar numeros por lo cual el metodo se cierra 
+2022-10-03 18:04:15 DEBUG (Ventana.java:100) Se crea una figura de tipo linea al panel 1
+2022-10-03 18:04:18 DEBUG (Ventana.java:201) Se da un nuevo tamaño,se crea la linea
+2022-10-03 18:04:18 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:18 DEBUG (Ventana.java:100) Se crea una figura de tipo linea al panel 1
+2022-10-03 18:04:18 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:18 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:244 POS Y:54
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:285 POS Y:88
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:440 POS Y:159
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:545 POS Y:217
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:691 POS Y:268
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:694 POS Y:269
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:770 POS Y:289
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:826 POS Y:302
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:828 POS Y:302
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:918 POS Y:315
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:19 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:19 DEBUG (Linea.java:75) se mueve a POS X:930 POS Y:317
+2022-10-03 18:04:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:20 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:20 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:20 DEBUG (Linea.java:75) se mueve a POS X:933 POS Y:316
+2022-10-03 18:04:20 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:20 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:20 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:21 DEBUG (Ventana.java:173) Se da un nuevo tamaño, se crea el redondo
+2022-10-03 18:04:21 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:21 DEBUG (Ventana.java:104) se crea una figura de tipo redondo al panel 1
+2022-10-03 18:04:21 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:21 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:21 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:21 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:22 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:22 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:22 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:22 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:22 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:22 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:22 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:22 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:22 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:22 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:22 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:22 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:22 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:22 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Ventana.java:42) se achica la imagen del panel 1
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:23 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:24 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:25 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:25 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:26 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:27 DEBUG (Ventana.java:141) se verifica que el tamaño este en numeros
+2022-10-03 18:04:27 DEBUG (Ventana.java:145) Se da un nuevo tamaño,se crea el cuadrado
+2022-10-03 18:04:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:27 DEBUG (Ventana.java:96) Se crea una figura de tipo Cuadrado al panel 1
+2022-10-03 18:04:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:27 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-03 18:04:28 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-03 18:04:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-03 18:04:28 DEBUG (Linea.java:31) se dibuja una linea
+2022-10-04 07:08:03 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-04 07:10:50 DEBUG (Ventana.java:77) se necesita una escena para subir imagen
+2022-10-04 07:10:52 DEBUG (Ventana.java:30) se necesita una escena
+2022-10-04 07:10:53 DEBUG (Ventana.java:221) se necesita una escena para subir imagen
+2022-10-04 07:10:53 DEBUG (Ventana.java:111) se crean letras al panel 0
+2022-10-04 07:10:57 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:10:57 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:10:57 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:10:59 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:10:59 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:10:59 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:00 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:11:00 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:11:00 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:02 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:02 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:03 DEBUG (Ventana.java:82) Se sube una imagen al panel 3
+2022-10-04 07:11:03 DEBUG (Ventana.java:248) Se inicia la subida de la imagen
+2022-10-04 07:11:04 DEBUG (Ventana.java:263) Imagen Subida, Se pasa al Escenario para poder graficarla
+2022-10-04 07:11:04 DEBUG (Imagen.java:86) se carga la imagen
+2022-10-04 07:11:04 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:04 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:05 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:06 DEBUG (Ventana.java:82) Se sube una imagen al panel 2
+2022-10-04 07:11:06 DEBUG (Ventana.java:248) Se inicia la subida de la imagen
+2022-10-04 07:11:07 DEBUG (Ventana.java:263) Imagen Subida, Se pasa al Escenario para poder graficarla
+2022-10-04 07:11:07 DEBUG (Imagen.java:86) se carga la imagen
+2022-10-04 07:11:07 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:07 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:08 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:09 DEBUG (Ventana.java:82) Se sube una imagen al panel 1
+2022-10-04 07:11:09 DEBUG (Ventana.java:248) Se inicia la subida de la imagen
+2022-10-04 07:11:10 DEBUG (Ventana.java:263) Imagen Subida, Se pasa al Escenario para poder graficarla
+2022-10-04 07:11:11 DEBUG (Imagen.java:86) se carga la imagen
+2022-10-04 07:11:11 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:11 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:13 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:13 DEBUG (Ventana.java:37) se transforma la imagen a blanco y negro del panel 1
+2022-10-04 07:11:13 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:15 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:16 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:16 DEBUG (Ventana.java:42) se achica la imagen del panel 2
+2022-10-04 07:11:16 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:17 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:19 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:19 DEBUG (Ventana.java:37) se transforma la imagen a blanco y negro del panel 3
+2022-10-04 07:11:19 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:23 DEBUG (Ventana.java:173) Se da un nuevo tamaño, se crea el redondo
+2022-10-04 07:11:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:23 DEBUG (Ventana.java:104) se crea una figura de tipo redondo al panel 3
+2022-10-04 07:11:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:23 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:23 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:24 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:24 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Ventana.java:173) Se da un nuevo tamaño, se crea el redondo
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Ventana.java:104) se crea una figura de tipo redondo al panel 2
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:26 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:27 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:29 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Ventana.java:173) Se da un nuevo tamaño, se crea el redondo
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Ventana.java:104) se crea una figura de tipo redondo al panel 1
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:31 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:31 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:37 DEBUG (Ventana.java:226) se verifica que sean solo letras
+2022-10-04 07:11:37 DEBUG (Ventana.java:232) Se escribe la letra en el panel
+2022-10-04 07:11:37 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:37 DEBUG (Ventana.java:111) se crean letras al panel 3
+2022-10-04 07:11:37 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:37 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:38 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:39 DEBUG (Ventana.java:226) se verifica que sean solo letras
+2022-10-04 07:11:39 DEBUG (Ventana.java:232) Se escribe la letra en el panel
+2022-10-04 07:11:39 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:39 DEBUG (Ventana.java:111) se crean letras al panel 2
+2022-10-04 07:11:39 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:39 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:40 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:40 DEBUG (Ventana.java:226) se verifica que sean solo letras
+2022-10-04 07:11:40 DEBUG (Ventana.java:232) Se escribe la letra en el panel
+2022-10-04 07:11:40 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:11:40 DEBUG (Ventana.java:111) se crean letras al panel 1
+2022-10-04 07:11:40 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:41 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:43 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:43 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:44 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:44 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:46 DEBUG (Ventana.java:70) Se elimina el panel Numero 2
+2022-10-04 07:11:46 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:46 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:48 DEBUG (Ventana.java:70) Se elimina el panel Numero 3
+2022-10-04 07:11:48 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:11:48 DEBUG (Letras.java:32) se dibuja unas letras
+2022-10-04 07:11:49 DEBUG (Ventana.java:70) Se elimina el panel Numero 1
+2022-10-04 07:11:50 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:11:50 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:11:50 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:26 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:13:26 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:13:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:26 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:13:26 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:13:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:27 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:13:27 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:13:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:27 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:13:27 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:13:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:27 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:13:27 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:13:27 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:28 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:31 DEBUG (Ventana.java:70) Se elimina el panel Numero 6
+2022-10-04 07:13:31 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:38 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:38 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:40 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:41 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:13:45 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:26:37 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:26:38 DEBUG (Ventana.java:70) Se elimina el panel Numero 1
+2022-10-04 07:26:38 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:26:39 DEBUG (Ventana.java:70) Se elimina el panel Numero 2
+2022-10-04 07:26:39 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:26:39 DEBUG (Ventana.java:70) Se elimina el panel Numero 3
+2022-10-04 07:26:39 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:26:39 DEBUG (Ventana.java:70) Se elimina el panel Numero 4
+2022-10-04 07:26:39 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:26:39 DEBUG (Ventana.java:70) Se elimina el panel Numero 5
+2022-10-04 07:26:40 DEBUG (Ventana.java:64) no hay escenas creadas
+2022-10-04 07:36:22 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-04 07:36:27 DEBUG (Ventana.java:221) se necesita una escena para subir imagen
+2022-10-04 07:36:27 DEBUG (Ventana.java:111) se crean letras al panel 0
+2022-10-04 07:36:31 DEBUG (Ventana.java:89) se necesita una escena para crear figuras
+2022-10-04 07:36:34 DEBUG (Ventana.java:89) se necesita una escena para crear figuras
+2022-10-04 07:36:37 DEBUG (Ventana.java:89) se necesita una escena para crear figuras
+2022-10-04 07:36:40 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:36:40 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:36:40 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:36:42 DEBUG (Ventana.java:173) Se da un nuevo tamaño, se crea el redondo
+2022-10-04 07:36:42 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:36:42 DEBUG (Ventana.java:104) se crea una figura de tipo redondo al panel 1
+2022-10-04 07:36:42 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:42:55 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-04 07:43:02 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:43:02 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:43:02 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:06 DEBUG (Ventana.java:143) se verifica que el tamaño este en numeros
+2022-10-04 07:43:07 DEBUG (Ventana.java:153) solo se aceptan tamaños menor/iguales a 600 y mayores de 0
+2022-10-04 07:43:07 DEBUG (Ventana.java:97) Se crea una figura de tipo Cuadrado al panel 1
+2022-10-04 07:43:10 DEBUG (Ventana.java:143) se verifica que el tamaño este en numeros
+2022-10-04 07:43:10 DEBUG (Ventana.java:147) Se da un nuevo tamaño,se crea el cuadrado
+2022-10-04 07:43:10 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:10 DEBUG (Ventana.java:97) Se crea una figura de tipo Cuadrado al panel 1
+2022-10-04 07:43:10 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:20 DEBUG (Panel.java:75) click boiiii 1
+2022-10-04 07:43:29 DEBUG (Ventana.java:143) se verifica que el tamaño este en numeros
+2022-10-04 07:43:29 DEBUG (Ventana.java:147) Se da un nuevo tamaño,se crea el cuadrado
+2022-10-04 07:43:29 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:29 DEBUG (Ventana.java:97) Se crea una figura de tipo Cuadrado al panel 1
+2022-10-04 07:43:29 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:32 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:32 DEBUG (Ventana.java:42) se achica la imagen del panel 1
+2022-10-04 07:43:32 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:34 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:43:34 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:43:41 DEBUG (Ventana.java:143) se verifica que el tamaño este en numeros
+2022-10-04 07:43:42 DEBUG (Ventana.java:153) solo se aceptan tamaños menor/iguales a 600 y mayores de 0
+2022-10-04 07:43:42 DEBUG (Ventana.java:97) Se crea una figura de tipo Cuadrado al panel 1
+2022-10-04 07:52:18 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-04 07:52:25 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:52:25 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:52:25 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:52:26 DEBUG (Ventana.java:54) se crea una escena
+2022-10-04 07:52:26 DEBUG (Ventana.java:56) se añade a un panel
+2022-10-04 07:52:26 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:52:28 DEBUG (Ventana.java:82) Se sube una imagen al panel 1
+2022-10-04 07:52:28 DEBUG (Ventana.java:250) Se inicia la subida de la imagen
+2022-10-04 07:52:30 DEBUG (Ventana.java:265) Imagen Subida, Se pasa al Escenario para poder graficarla
+2022-10-04 07:52:30 DEBUG (Imagen.java:86) se carga la imagen
+2022-10-04 07:52:30 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:52:30 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:52:35 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-04 07:52:35 DEBUG (Ventana.java:82) Se sube una imagen al panel 2
+2022-10-04 07:52:35 DEBUG (Ventana.java:250) Se inicia la subida de la imagen
+2022-10-04 07:52:37 DEBUG (Ventana.java:265) Imagen Subida, Se pasa al Escenario para poder graficarla
+2022-10-04 07:52:37 DEBUG (Imagen.java:86) se carga la imagen
+2022-10-04 07:52:37 DEBUG (Panel.java:69) se detecto un cambio, se repinta el panel
+2022-10-04 07:52:37 DEBUG (Imagen.java:61) se dibuja una imagen
+2022-10-20 11:39:47 DEBUG (Ventana.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-20 11:40:34 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:05:18 DEBUG (Ventanap5.java:23) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:12:07 DEBUG (Ventanap5.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:14:02 DEBUG (Ventanap5.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:14:09 DEBUG (Ventanap5.java:24) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:28:26 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:30:28 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:31:11 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 17:35:55 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 19:57:42 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 19:58:11 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:04:35 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:04:57 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:08:28 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:13:20 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:13:23 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:13:28 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:16:51 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:19:58 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:28:29 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:30:14 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:31:46 DEBUG (Ventanap5.java:25) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:40:21 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:43:17 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 20:45:05 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:01:49 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:08:23 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:12:57 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:17:00 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:19:16 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:19:30 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:29:59 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:32:59 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:34:32 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:34:41 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:36:32 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:45:43 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:46:29 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:47:54 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:53:44 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:57:05 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 21:58:40 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:01:17 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:07:22 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:10:40 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:16:23 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:18:18 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:41:05 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:41:44 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:42:38 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:43:18 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:50:58 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:51:27 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:54:19 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:55:21 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:56:40 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:57:24 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:58:16 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 22:59:36 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:00:19 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:01:06 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:01:17 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:10:01 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:13:45 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:19:00 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:26:26 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:27:08 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:29:12 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:33:13 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:34:46 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:34:50 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:36:14 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:38:29 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:43:11 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:44:00 DEBUG (Ventanap5.java:27) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:49:49 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:53:27 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:54:25 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:55:56 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:56:28 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:59:03 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-20 23:59:49 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:07:55 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:10:34 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:13:52 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:15:37 DEBUG (Ventanap5.java:28) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:19:31 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:22:09 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:22:41 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:23:15 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:25:16 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:26:12 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:27:47 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:27:56 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:29:45 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:31:01 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:32:01 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:32:04 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:33:16 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:34:13 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:35:02 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:35:27 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:37:26 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:38:09 DEBUG (Ventanap5.java:29) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:43:54 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:43:58 DEBUG (Ventanap5.java:46) No se dio un link correcto
+2022-10-21 00:44:03 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 00:44:07 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.orasdasde
+2022-10-21 00:44:16 DEBUG (Ventanap5.java:46) No se dio un link correcto
+2022-10-21 00:45:59 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 00:46:01 DEBUG (Ventanap5.java:46) No se dio un link correcto
+2022-10-21 00:46:08 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 00:46:11 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Maasdasdin_Page
+2022-10-21 00:46:13 ERROR (Ventanap5.java:179) El link no esta correcto
+2022-10-21 00:46:26 DEBUG (Ventanap5.java:46) No se dio un link correcto
+2022-10-21 00:49:48 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 01:03:17 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 01:03:23 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:150) se obtiene el codigo fuente
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:54) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:135) se obtienen los links :https://creativecommons.org/licenses/by-sa/3.0/ -> https://meta.wikimedia.org/wiki/Main_Page -> https://outreach.wikimedia.org/wiki/ -> https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit -> https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:56) se separan los links vigentes
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:59) Se añade el link : https://creativecommons.org/licenses/by-sa/3.0/
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:59) Se añade el link : https://outreach.wikimedia.org/wiki/
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 01:03:24 DEBUG (Ventanap5.java:64) Se repinta el Panel
+2022-10-21 01:03:29 ERROR (Ventanap5.java:83) No existe el nodo con identificador 
+2022-10-21 01:03:33 ERROR (Ventanap5.java:106) No existe el nodo con identificador 
+2022-10-21 01:03:34 ERROR (Ventanap5.java:71) No existe ningun nodo con el identificador 
+2022-10-21 01:03:40 DEBUG (Ventanap5.java:75) se obtiene el nodo 5
+2022-10-21 01:03:44 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 5
+2022-10-21 01:03:44 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:03:45 DEBUG (Ventanap5.java:150) se obtiene el codigo fuente
+2022-10-21 01:03:45 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 01:03:45 DEBUG (Ventanap5.java:135) se obtienen los links :https://creativecommons.org/licenses/by-sa/3.0/ -> https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022 -> https://w.wiki/5ffs -> https://vsenauka.ru/proekty/tolmach/luchshie-vrezki/ -> https://ru.wikipedia.org/wiki/ru:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%AF%D0%B4%D1%80%D0%BE_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8
+2022-10-21 01:03:45 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 01:03:48 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 5
+2022-10-21 01:03:48 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:03:48 DEBUG (Ventanap5.java:150) se obtiene el codigo fuente
+2022-10-21 01:03:48 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 01:03:48 DEBUG (Ventanap5.java:135) se obtienen los links :https://creativecommons.org/licenses/by-sa/3.0/ -> https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022 -> https://w.wiki/5ffs -> https://vsenauka.ru/proekty/tolmach/luchshie-vrezki/ -> https://ru.wikipedia.org/wiki/ru:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%AF%D0%B4%D1%80%D0%BE_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8
+2022-10-21 01:03:48 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 01:04:23 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 01:04:28 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:150) se obtiene el codigo fuente
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:54) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:135) se obtienen los links :https://creativecommons.org/licenses/by-sa/3.0/ -> https://meta.wikimedia.org/wiki/Main_Page -> https://outreach.wikimedia.org/wiki/ -> https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit -> https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:56) se separan los links vigentes
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:59) Se añade el link : https://creativecommons.org/licenses/by-sa/3.0/
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:59) Se añade el link : https://outreach.wikimedia.org/wiki/
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 01:04:29 DEBUG (Ventanap5.java:64) Se repinta el Panel
+2022-10-21 01:05:24 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 01:05:27 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:54) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:56) se separan los links vigentes
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:59) Se añade el link : https://creativecommons.org/licenses/by-sa/3.0/
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:59) Se añade el link : https://outreach.wikimedia.org/wiki/
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 01:05:29 DEBUG (Ventanap5.java:64) Se repinta el Panel
+2022-10-21 01:05:33 DEBUG (Ventanap5.java:75) se obtiene el nodo 5
+2022-10-21 01:05:39 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 5
+2022-10-21 01:05:39 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:05:40 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 01:05:40 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 01:05:40 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 01:05:50 DEBUG (Ventanap5.java:75) se obtiene el nodo 10
+2022-10-21 01:05:52 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 10
+2022-10-21 01:05:52 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:05:53 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 01:05:53 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 01:05:53 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 01:06:08 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:54) se extraen el codigo fuente del nodo : 0
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:56) se separan los links vigentes
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://creativecommons.org/licenses/by-sa/3.0/
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://outreach.wikimedia.org/wiki/
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 01:06:10 DEBUG (Ventanap5.java:64) Se repinta el Panel

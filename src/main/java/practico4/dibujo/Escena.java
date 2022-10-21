@@ -12,7 +12,6 @@ import practico4.vista.Panel;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.beans.PropertyChangeSupport;
-import java.util.ArrayList;
 
 public class Escena implements IDibujo {
     private Imagen imagen;
@@ -24,6 +23,7 @@ public class Escena implements IDibujo {
         imagen = new Imagen(1214, 690);
         objetos = new Lista<>();
         observado = new PropertyChangeSupport(this);
+
     }
 
     @Override

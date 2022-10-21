@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¿’
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¿’
+S
+java:S4977n"=Rename "E" which hides a type parameter from the outer scope.(Æ§­×
+Y
+java:S4977‰"=Rename "E" which hides a type parameter from the outer scope.(œ†™—úÿÿÿÿ
+j
+java:S2272˜"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¤¿ğßıÿÿÿÿ
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¦³üëûÿÿÿÿ8õ·Âô¹0
