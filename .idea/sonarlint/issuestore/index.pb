@@ -141,3 +141,7 @@ a
 1src/test/java/nur/p3/qa/AritmeticaBasicaTest.java,7\8\78977b9408b695e656a2acdd94fcbf7a8655cc33
 a
 1src/test/java/nur/p3/qa/ArbolAritemeticoTest.java,7\1\7156d39d7b58a5f722d83888947051560dda2745
+a
+1src/main/java/pratico6/Interfaces/IDibujarp6.java,2\a\2aca659cfee93ad85d11fd6d895d11da282b0514
+D
+logs/application.log,0\6\0641b236affda539908a9844d4ee20d152194063
