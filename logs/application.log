@@ -4066,3 +4066,862 @@
 2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
 2022-10-21 01:06:10 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
 2022-10-21 01:06:10 DEBUG (Ventanap5.java:64) Se repinta el Panel
+2022-10-21 07:08:06 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-10-21 07:09:04 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:54) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:56) se separan los links vigentes
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:59) Se añade el link : https://creativecommons.org/licenses/by-sa/3.0/
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:59) Se añade el link : https://outreach.wikimedia.org/wiki/
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 07:09:06 DEBUG (Ventanap5.java:64) Se repinta el Panel
+2022-10-21 07:09:12 DEBUG (Ventanap5.java:75) se obtiene el nodo 0
+2022-10-21 07:09:20 DEBUG (Ventanap5.java:75) se obtiene el nodo 1
+2022-10-21 07:09:24 DEBUG (Ventanap5.java:75) se obtiene el nodo 5
+2022-10-21 07:09:34 DEBUG (Ventanap5.java:75) se obtiene el nodo 2
+2022-10-21 07:09:39 DEBUG (Ventanap5.java:75) se obtiene el nodo 3
+2022-10-21 07:09:48 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 3
+2022-10-21 07:09:48 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:09:50 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:09:50 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 07:09:50 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 07:09:57 DEBUG (Ventanap5.java:75) se obtiene el nodo 10
+2022-10-21 07:10:04 DEBUG (Ventanap5.java:75) se obtiene el nodo 7
+2022-10-21 07:10:08 DEBUG (Ventanap5.java:75) se obtiene el nodo 6
+2022-10-21 07:10:30 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 10
+2022-10-21 07:10:30 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:10:31 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:10:31 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 07:10:31 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 07:11:45 DEBUG (Ventanap5.java:51) Se genera la raiz del arbol con contenidohttps://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:54) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:56) se separan los links vigentes
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:59) Se añade el link : https://creativecommons.org/licenses/by-sa/3.0/
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/wiki/Main_Page
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:59) Se añade el link : https://outreach.wikimedia.org/wiki/
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:59) Se añade el link : https://meta.wikimedia.org/w/index.php?title=Template:Main_Page/WM_News&amp;action=edit
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:59) Se añade el link : https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%8E%D0%BD%D1%8B%D1%85_2022
+2022-10-21 07:11:47 DEBUG (Ventanap5.java:64) Se repinta el Panel
+2022-10-21 07:17:53 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 5
+2022-10-21 07:17:53 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:17:55 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:17:55 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 07:17:55 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 07:17:58 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 9
+2022-10-21 07:17:58 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:18:01 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:18:01 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 07:18:01 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-10-21 07:18:06 DEBUG (Ventanap5.java:87) Se obtiene el nodo con identificador 1
+2022-10-21 07:18:06 DEBUG (Ventanap5.java:89) se extraen el codigo fuente del nodo : 0
+2022-10-21 07:18:07 DEBUG (Ventanap5.java:149) se obtiene el codigo fuente
+2022-10-21 07:18:07 DEBUG (Ventanap5.java:91) se separan los links vigentes
+2022-10-21 07:18:07 DEBUG (Ventanap5.java:99) se repinta el panel
+2022-11-13 23:09:09 DEBUG (Ventanap5.java:30) Se generan todos los componentes de la ventana y el panel
+2022-11-14 01:54:22 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 01:55:03 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 17:35:46 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 17:36:57 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 17:40:06 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 17:40:59 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:26:39 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:27:15 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:29:58 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:30:23 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:31:10 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:33:33 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:36:05 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:37:57 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:39:42 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:43:12 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:44:08 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:45:03 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:45:48 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:46:25 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:47:24 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:48:34 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:49:22 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:53:38 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 19:55:10 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:02:37 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:02:52 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:04:58 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:05:18 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:05:43 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:05:53 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:07:29 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:10:45 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:10:58 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:11:09 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:11:30 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:12:18 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:12:32 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:12:40 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:17:02 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:20:11 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:20:40 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 20:21:42 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:01:05 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:02:59 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:06:39 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:07:07 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:07:43 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:13:07 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:13:44 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:15:54 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:17:21 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:17:55 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:17:57 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:20:33 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-14 22:23:13 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:25:50 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:28:07 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:28:53 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:29:38 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:30:15 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:35:28 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:36:34 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:38:06 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:38:27 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:39:49 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:45:12 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:45:54 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:46:38 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:46:58 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:47:54 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:48:52 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:49:22 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:50:12 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:50:29 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:51:19 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:52:18 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:52:38 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:53:26 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:53:44 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:54:43 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:55:12 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:57:15 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:57:54 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 00:58:23 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:00:30 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:00:49 DEBUG (Ventanap6.java:19) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:11:12 DEBUG (Ventanap6.java:20) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:20:08 DEBUG (Ventanap6.java:20) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:22:10 DEBUG (Ventanap6.java:20) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:27:04 DEBUG (Ventanap6.java:20) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:27:25 DEBUG (Ventanap6.java:20) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:29:13 DEBUG (Ventanap6.java:20) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:54:41 DEBUG (Ventanap6.java:24) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:55:23 DEBUG (Ventanap6.java:24) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:56:26 DEBUG (Ventanap6.java:24) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:58:06 DEBUG (Ventanap6.java:24) Se generan todos los componentes de la ventana y el panel
+2022-11-15 01:58:34 DEBUG (Ventanap6.java:24) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:02:18 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:02:29 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:04:22 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:06:13 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:06:25 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:08:17 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:10:36 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:16:42 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 1-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 1-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 2-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 2-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 2-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 3-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 3-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 3-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 4
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 4-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 4-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 4-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 5
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 5-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 5-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 5-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 6
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 6-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 6-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 6-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 7
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 7-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 7-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 7-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 8
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 8-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 8-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 8-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 9
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 9-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 9-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 9-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 10
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 10-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 10-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 11
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 11-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 11-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 11-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 12
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 13
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 14
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 15
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 16
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 17
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 18
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 19
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 20
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 20-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 20-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 20-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 21
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 21-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 21-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 21-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 22
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 23
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 24
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 25
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 26
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 27
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 28
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 29
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-3
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 30
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 30-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 30-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 30-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 31
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 31-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 31-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 32
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 32-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 32-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 32-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 33
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 33-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 33-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 33-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 34
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 34-0
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 34-1
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:74) Dibujando el arco 34-2
+2022-11-15 02:16:48 DEBUG (GraficoTablero.java:65) Dibujando el nodo 35
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 35-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 35-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 35-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 36
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 36-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 36-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 36-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 37
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 37-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 37-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 37-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 38
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 38-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 38-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 38-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 39
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 39-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 39-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 39-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 40
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 40-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 40-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:100) Dibujando el nodo 40 en rojo
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:36) Dibujando el tablero
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 1-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 1-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 2-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 2-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 2-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 3-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 3-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 3-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 4
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 4-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 4-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 4-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 5
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 5-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 5-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 5-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 6
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 6-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 6-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 6-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 7
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 7-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 7-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 7-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 8
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 8-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 8-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 8-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 9
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 9-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 9-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 9-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 10
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 10-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 10-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 11
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 11-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 11-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 11-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 12
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 12-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 13
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 13-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 14
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 14-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 15
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 15-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 16
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 16-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 17
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 17-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 18
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 18-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 19
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 19-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 20
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 20-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 20-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 20-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 21
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 21-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 21-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 21-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 22
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 22-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 23
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 23-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 24
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 24-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 25
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 25-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 26
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 26-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 27
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 27-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 28
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 28-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 29
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 29-3
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 30
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 30-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 30-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 30-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 31
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 31-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 31-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 32
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 32-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 32-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 32-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 33
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 33-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 33-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 33-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 34
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 34-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 34-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 34-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 35
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 35-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 35-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 35-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 36
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 36-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 36-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 36-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 37
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 37-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 37-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 37-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 38
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 38-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 38-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 38-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 39
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 39-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 39-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 39-2
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:65) Dibujando el nodo 40
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 40-0
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:74) Dibujando el arco 40-1
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:100) Dibujando el nodo 40 en rojo
+2022-11-15 02:16:49 DEBUG (GraficoTablero.java:36) Dibujando el tablero
+2022-11-15 02:23:11 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 1-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 1-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 2-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 2-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 2-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 3-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 3-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 3-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 4
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 4-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 4-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 4-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 5
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 5-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 5-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 5-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 6
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 6-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 6-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 6-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 7
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 7-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 7-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 7-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 8
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 8-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 8-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 8-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 9
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 9-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 9-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 9-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 10
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 10-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 10-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 11
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 11-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 11-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 11-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 12
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 13
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 14
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 15
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 16
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 17
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 18
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 19
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 20
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 20-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 20-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 20-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 21
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 21-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 21-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 21-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 22
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 23
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 24
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 25
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 26
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 27
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 28
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 29
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-3
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 30
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 30-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 30-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 30-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 31
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 31-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 31-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 32
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 32-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 32-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 32-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 33
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 33-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 33-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 33-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 34
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 34-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 34-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 34-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 35
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 35-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 35-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 35-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 36
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 36-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 36-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 36-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 37
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 37-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 37-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 37-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 38
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 38-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 38-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 38-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 39
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 39-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 39-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 39-2
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:74) Dibujando el nodo 40
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 40-0
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:83) Dibujando el arco 40-1
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:109) Dibujando el nodo 40 en rojo
+2022-11-15 02:23:11 DEBUG (GraficoTablero.java:36) Dibujando el tablero
+2022-11-15 02:23:59 DEBUG (Ventanap6.java:23) Se generan todos los componentes de la ventana y el panel
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 1-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 1-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 2-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 2-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 2-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 3-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 3-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 3-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 4
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 4-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 4-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 4-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 5
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 5-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 5-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 5-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 6
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 6-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 6-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 6-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 7
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 7-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 7-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 7-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 8
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 8-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 8-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 8-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 9
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 9-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 9-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 9-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 10
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 10-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 10-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 11
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 11-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 11-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 11-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 12
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 12-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 13
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 13-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 14
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 14-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 15
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 15-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 16
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 16-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 17
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 17-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 18
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 18-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 19
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 19-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 20
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 20-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 20-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 20-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 21
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 21-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 21-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 21-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 22
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 22-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 23
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 23-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 24
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 24-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 25
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 25-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 26
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 26-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 27
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 27-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 28
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 28-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 29
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 29-3
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 30
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 30-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 30-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 30-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 31
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 31-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 31-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 32
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 32-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 32-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 32-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 33
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 33-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 33-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 33-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 34
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 34-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 34-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 34-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 35
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 35-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 35-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 35-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 36
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 36-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 36-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 36-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 37
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 37-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 37-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 37-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 38
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 38-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 38-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 38-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 39
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 39-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 39-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 39-2
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:74) Dibujando el nodo 40
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 40-0
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:83) Dibujando el arco 40-1
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:109) Dibujando el nodo 40 en rojo
+2022-11-15 02:23:59 DEBUG (GraficoTablero.java:36) Dibujando el tablero
