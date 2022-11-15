@@ -8,6 +8,7 @@ import pratico6.Lista_con_grafos.Listap6;
 import java.awt.*;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
+import java.util.List;
 import java.util.Random;
 
 public class Tablero {
@@ -19,7 +20,7 @@ public class Tablero {
     protected static final Logger logger = LogManager.getLogger();
 
     public void setCamino(Listap6<String> camino) {
-        this.camino = camino;
+        this.actualizarCamino(this.modelo,camino);
     }
 
     public GrafoCompleto getModelo() {
@@ -36,6 +37,18 @@ public class Tablero {
         observado = new PropertyChangeSupport(this);
          modelo = new GrafoCompleto();
          inicializarGrafo();
+        dibujador = new GraficoTablero<>(modelo, this.camino);
+    }
+    public void terremoto() {
+        modelo = new GrafoCompleto();
+        inicializarGrafoTerremoto();
+        dibujador = new GraficoTablero<>(modelo, this.camino);
+        cambio();
+    }
+
+    public void djikstra(String text, String text1) {
+        logger.debug("Calculando el camino mas corto de "+text+" a "+text1);
+        this.camino = modelo.dijkstra(text, text1);
         dibujador = new GraficoTablero<>(modelo, this.camino);
     }
     public void addListener(PropertyChangeListener listener) {
@@ -201,7 +214,7 @@ public class Tablero {
         modelo.anadirNodo("40","40");
 
 
-        int i = 5;
+        int i = 50;
         modelo.conectar("1","2", (int) (numero.nextDouble()* i),true);
         modelo.conectar("1","11", (int) (numero.nextDouble()* i),true);
         modelo.conectar("2","3", (int) (numero.nextDouble()* i),true);
@@ -272,17 +285,20 @@ public class Tablero {
         this.camino = modelo.dijkstra("1", "40");
     }
 
+
     public void dibujar(int i, int i1, Graphics g) {
         dibujador.dibujar(i, i1, g);
     }
-    public void actualizarCamino() {
-        dibujador.actualizarCamino(this.camino);
+    public void actualizarCamino(GrafoCompleto modelo , Listap6<String> camino) {
+        System.out.println(camino);
     }
 
-    public void terremoto() {
-        modelo = new GrafoCompleto();
-        inicializarGrafoTerremoto();
-        dibujador = new GraficoTablero<>(modelo, this.camino);
-        cambio();
+
+    public void setGrafo(GrafoCompleto grafo) {
+        this.modelo = grafo;
+    }
+
+    public GrafoCompleto getGrafo() {
+        return modelo;
     }
 }

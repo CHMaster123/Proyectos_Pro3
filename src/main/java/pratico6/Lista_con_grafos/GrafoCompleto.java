@@ -69,6 +69,7 @@ public class GrafoCompleto<E> {
             quitarDeNoVisitados(noVisitados, u);
 
             if (u.equals(destino)) {
+                logger.debug("Se encontró el destino");
                 return reconstruirCamino(anteriores, destino, origen);
             }
 

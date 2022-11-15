@@ -10,20 +10,12 @@ import java.util.HashMap;
 
 public class GraficoTablero<E> implements IDibujarp6 {
 
-    public static final int ANCHO_NODO = 50;
-    public static final int ESPACIO_HORIZONTAL = 20;
-    public static final int ESPACIO_VERTICAL = 100;
     protected static final Logger logger = LogManager.getLogger();
     private GrafoCompleto<E> modelo;
     private DibujoNodoTablero<E> raiz;
 
     public GrafoCompleto<E> getModelo() {
         return modelo;
-    }
-
-    public void setModelo(GrafoCompleto<E> modelo, Listap6<String> camino) {
-        this.modelo = modelo;
-        this.raiz = new DibujoNodoTablero<E>(modelo.getNodos(), camino);
     }
 
     public GraficoTablero(GrafoCompleto<E> src, Listap6<String> camino) {
@@ -34,11 +26,6 @@ public class GraficoTablero<E> implements IDibujarp6 {
     public void dibujar(int x, int y, Graphics g) {
       raiz.dibujar(x, y, g);
       logger.debug("Dibujando el tablero");
-    }
-
-    public void actualizarCamino(Listap6<String> camino) {
-        this.raiz.setCamino(camino);
-        logger.debug("Actualizando el camino");
     }
 
     static class DibujoNodoTablero<E> {
@@ -77,26 +64,31 @@ public class GraficoTablero<E> implements IDibujarp6 {
                AuxInicioX =(Auxpeso*(AuxPosicion-1))+50;
                 for (int j = 0; j < Conexiones.getTamano(); j++) {
                     GrafoCompleto.Arco<E> Arco = Conexiones.get(j);
-                    Auxpeso = Arco.getPeso()*20;
+                    Auxpeso = 5*20;
                     AuxFinalX = AuxInicioX + Auxpeso;
                     int Destino = Integer.parseInt(Arco.getHacia().getId());
                     logger.debug("Dibujando el arco "+i+"-"+j);
                     int Origen = Integer.parseInt(Arco.getDesde().getId());
                     if (Origen+1 == Destino){
                         g.drawLine(AuxInicioX, AuxInicioY, AuxFinalX, AuxInicioY);
+                        g.setColor(Color.BLUE);
+                        g.drawString(String.valueOf(Arco.getPeso()), (AuxInicioX+AuxFinalX)/2, AuxInicioY);
                         for (int k = 0; k < this.camino.getTamano(); k++) {
                             if (this.camino.get(k) == Nodo.getId()){
                                 g.setColor(Color.RED);
                                 g.fillOval(AuxInicioX-15, AuxInicioY-15, 30, 30);
+                                logger.debug("Se Dibuja el nodo "+i+" en rojo por estar en el camino");
                             }else {
+                                g.setColor(Color.BLACK);
                                 g.drawOval(AuxInicioX-10, AuxInicioY-10, 20, 20);
                             }
                         }
-                        g.setColor(Color.BLUE);
+                        g.setColor(Color.BLACK);
                         g.drawString(Nodo.getId(), AuxInicioX-10, AuxInicioY-10);
                     }else if (i<=30){
                         AuxFinalY = AuxInicioY + Auxpeso;
                         g.drawLine(AuxInicioX, AuxInicioY, AuxInicioX, AuxFinalY);
+                        g.setColor(Color.BLACK);
                         g.drawString(Nodo.getId(), AuxInicioX-10, AuxInicioY-10);
                     }
                 }
@@ -106,8 +98,9 @@ public class GraficoTablero<E> implements IDibujarp6 {
                         if (this.camino.get(k) == Nodo.getId()){
                             g.setColor(Color.RED);
                             g.fillOval(AuxInicioX-15, AuxInicioY-15, 30, 30);
-                            logger.debug("Dibujando el nodo "+i+" en rojo");
+                            logger.debug("Dibujando el nodo "+i+" en rojo por estar en el camino");
                         }else {
+                            g.setColor(Color.RED);
                             g.drawOval(AuxInicioX-10, AuxInicioY-10, 20, 20);
                         }
                     }
@@ -115,6 +108,7 @@ public class GraficoTablero<E> implements IDibujarp6 {
                     AuxPosicion = 1;
                 }
                 if (i == 40){
+                    g.setColor(Color.BLUE);
                     g.drawString(Nodo.getId(), AuxInicioX-10, (AuxInicioY-10)-Auxpeso);
                 }
             }

@@ -2,6 +2,7 @@ package pratico6.Ventana;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import practico4.objetos.Cuadrado;
 import practico5.graficos.DibujoArbol;
 import practico5.lista_arbol.Arbol;
 import pratico6.Grafia.Tablero;
@@ -16,12 +17,11 @@ import java.util.Random;
 public class Ventanap6 extends JFrame {
     protected static final Logger logger = LogManager.getLogger();
     private Panelp6 panel;
-    private Tablero modelo;
 
 
     public Ventanap6() {
         logger.debug("Se generan todos los componentes de la ventana y el panel");
-        modelo = new Tablero();
+        Tablero modelo = new Tablero();
         this.panel= new Panelp6(modelo);
        initComponents();
     }
@@ -33,14 +33,26 @@ public class Ventanap6 extends JFrame {
         });
     }
     private void botonCaminoActionPerformed(java.awt.event.ActionEvent evt) {
-        Listap6<String> Camino= modelo.getModelo().dijkstra(this.textoInicio.getText(),this.textoFinal.getText());
-        modelo.actualizarCamino();
-        logger.debug("Se ha generado el camino");
-        modelo.cambio();
+        if (this.textoInicio.getText().matches("\\d+") && this.textoFinal.getText().matches("\\d+")) {
+            int tamañoinicio = Integer.parseInt(this.textoInicio.getText());
+            int tamañofinal = Integer.parseInt(this.textoFinal.getText());
+            if (tamañoinicio <= 40 && tamañoinicio >=1 && tamañofinal <= 40 && tamañofinal >=1) {
+                logger.debug("Se genera un camino aleatorio desde el nodo "+ tamañoinicio + " hasta el nodo " + tamañofinal);
+                this.panel.djikstra(String.valueOf(tamañoinicio), String.valueOf(tamañofinal));
+            } else {
+                JOptionPane.showMessageDialog(null, "Porfavor elija un numero del 1 al 40 con el nodo correspondiente");
+                logger.debug("Solo se puede elegir un numero del 1 al 40");
+                return;
+            }
+        } else {
+            JOptionPane.showMessageDialog(null, "Solo se admiten numeros");
+            logger.error("en esta seccion se da la condicion de solo usar numeros por lo cual el metodo se cierra ");
+            return;
+        }
     }
 
     private void botonTerremotoActionPerformed(ActionEvent evt) {
-        modelo.terremoto();
+        panel.getModelo().terremoto();
     }
 
 

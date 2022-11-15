@@ -3,6 +3,8 @@ package pratico6.Ventana;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import pratico6.Grafia.Tablero;
+import pratico6.Lista_con_grafos.GrafoCompleto;
+import pratico6.Lista_con_grafos.Listap6;
 
 import javax.swing.*;
 import java.awt.*;
@@ -40,5 +42,16 @@ public class Panelp6 extends JPanel implements PropertyChangeListener {
     public void propertyChange(PropertyChangeEvent evt) {
         this.repaint();
         logger.debug("Repintando el panel");
+    }
+
+    public void djikstra(String text, String text1) {
+        logger.debug("Calculando el camino mas corto de "+text+" a "+text1);
+        modelo.djikstra(text, text1);
+    }
+
+    public void generarCamino(Listap6<String> camino, GrafoCompleto grafo) {
+        Tablero tablero = new Tablero();
+        tablero.setGrafo(grafo);
+        this.setModelo(tablero);
     }
 }
